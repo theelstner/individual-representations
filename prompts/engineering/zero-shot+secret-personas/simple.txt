@@ -1,0 +1,25 @@
+Invent 5 different personas based on the following generic profile, were each accumulated value is replaced by a specific one. Do not print the profiles! Do not change values for "Duration in month", "Credit amount", "Personal status and sex", "Present residence since", "Age", "Telephone". Do not change the currency DM! 
+
+Profile:
+Status of existing checking account: < 0 DM  
+Duration in month: 6  
+Credit history: critical account/other credits existing (not at this bank)  
+Purpose: radio/television  
+Credit amount: 1169  
+Savings account/bonds: unknown / no savings account  
+Present employment since: >= 7 years  
+Installment rate: 4%  
+Personal status and sex: male : single  
+Other debtors / guarantors: none  
+Present residence since: 4 years  
+Property: real estate  
+Age: 67  
+Other installment plans: none  
+Housing: own  
+Number of existing credits at this bank: 2  
+Job: skilled employee / official  
+Dependents: 1  
+Telephone: yes  
+Foreign worker: yes  
+
+Based on each of the 5 personas write an loan application letter in English from the person's perspective. Print only the letter!

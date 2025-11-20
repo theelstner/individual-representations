@@ -1,0 +1,93 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Letter 1:
+
+Dear Sir/Madam,
+
+I am writing to apply for a loan of 1169 DM to purchase a new radio/television set. My current set is outdated and I'm seeking to upgrade to better keep up with the news and world events. As a foreign worker in Germany, it is important for me to stay connected with the happenings around the globe.
+
+I am a single male, aged 67, and have been employed as a civil engineer for the past 8 years. Despite the critical status of my checking account and having no known savings, I have a stable income and own a real estate property. I have been living at my present residence for 4 years and have managed to pay off my previous loans in a timely manner.
+
+I assure you that I am a reliable candidate and will adhere to the 4% installment rate set by your bank. I have a telephone for easy communication and look forward to a positive response from your end.
+
+Yours sincerely,
+[Your Name]
+
+Letter 2:
+
+Dear Loan Officer,
+
+I am applying for a loan of 1169 DM for the purpose of purchasing a new television set. My old one has become unreliable and I need a new one to continue my work as a remote IT specialist.
+
+I am a 67-year-old single male who has been employed in my current job for over 7 years. I understand that my financial status may raise concerns, given my checking account is currently in the negative and I have no savings account. However, I have always been diligent in repaying my debts and I own my house outright, which should provide some assurance of my financial stability.
+
+I am committed to meeting the 4% installment rate and I am confident in my ability to repay this loan within the stipulated time frame. I am a responsible debtor and I hope you will consider my application favorably.
+
+Sincerely,
+[Your Name]
+
+Letter 3:
+
+Dear Sir/Madam,
+
+I would like to apply for a loan of 1169 DM to purchase a radio/television. As a 67-year-old single male, I rely on the television for news and entertainment.
+
+I am a skilled plumber and have been employed for the past 9 years. I understand that my checking account status and lack of savings may cause apprehension. However, I own a property and have successfully managed my financial responsibilities, including two previous credits with your bank.
+
+I am confident that I can manage the 4% installment rate and assure you of my commitment to fulfill my obligations. I look forward to your positive response.
+
+Best regards,
+[Your Name]
+
+Letter 4:
+
+Dear Loan Officer,
+
+I am writing to apply for a loan of 1169 DM. I am a 67-year-old single man, employed as a carpenter for the last 7 years. I need this loan to buy a new television, as my current one is no longer working.
+
+I understand that my financial situation, with a negative balance in my checking account and no savings, is not ideal. However, I have always been responsible with my finances. I own my home and have managed to repay all my previous loans on time.
+
+I am committed to repaying the loan at the agreed 4% installment rate and I assure you of my reliability as a debtor. I hope for a favorable response.
+
+Yours faithfully,
+[Your Name]
+
+Letter 5:
+
+Dear Sir/Madam,
+
+I am a 67-year-old single man seeking a loan of 1169 DM for the purchase of a new radio/television. I have been employed as an electrician for the past 8 years and despite the negative balance in my checking account and no known savings, I am financially stable.
+
+I own my home and have been living here for the past 4 years. I have also successfully managed two previous credits with your bank. I am confident in my ability to meet the 4% installment rate and repay the loan in the stipulated time frame.
+
+I am a responsible borrower and I hope that you will consider my application favorably.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,95 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Letter 1:
+
+Dear Loan Officer,
+
+I am writing to apply for a loan of 1169 DM for the purchase of a new television. As a 67-year-old electrical engineer with over 8 years at my current firm, I have a stable income and a strong work ethic. Despite a current negative balance in my checking account, due to unforeseen medical expenses for my dependent, I am committed to managing my finances responsibly.
+
+I own my home and have no other installment plans, which allows me to allocate funds towards this loan. My credit history shows some critical accounts, but I have successfully managed two credits at your bank in the past, demonstrating my reliability.
+
+Thank you for considering my application. I am confident in my ability to meet the installment rate of 4% and look forward to your favorable response.
+
+Sincerely,
+[Your Name]
+
+Letter 2:
+
+Dear Sir/Madam,
+
+I am seeking a loan of 1169 DM to purchase a radio and television set. As a dedicated foreign worker in the civil service for the past 9 years, I have consistently demonstrated financial responsibility. However, unexpected financial burdens have temporarily placed my checking account in deficit.
+
+Owning real estate and having no other debts apart from two credits at your bank, I assure you of my commitment to fulfilling this obligation. The requested loan will enhance my quality of life and allow me to remain informed and entertained.
+
+I appreciate your consideration and am eager to continue my positive relationship with your bank.
+
+Best regards,
+[Your Name]
+
+Letter 3:
+
+Dear [Bank Name] Team,
+
+I am applying for a 1169 DM loan to purchase a new television. As a skilled mechanic with 10 years of service at my current job, I have a steady income and a history of reliability. My current negative account balance is due to recent support provided to my dependent, but I am working diligently to rectify this.
+
+I own my home and have been residing there for 4 years, which reflects my stability. While my credit history includes some critical accounts, I have maintained two credits at your bank without issue.
+
+I hope to receive your support for this loan, which will significantly enhance my living conditions.
+
+Thank you for your consideration.
+
+Yours sincerely,
+[Your Name]
+
+Letter 4:
+
+To Whom It May Concern,
+
+I am writing to request a loan of 1169 DM for the purchase of a radio/television. As a foreign national working as a skilled technician for the past 7 years, I have consistently earned a reliable income. My checking account is currently in deficit due to unexpected expenses, but I am dedicated to restoring it.
+
+Owning real estate and having no other installment plans, I am confident in my ability to repay this loan. My history with your bank includes two successfully managed credits, which speaks to my trustworthiness.
+
+Thank you for considering my application. I look forward to your positive response.
+
+Warm regards,
+[Your Name]
+
+Letter 5:
+
+Dear Loan Department,
+
+I am applying for a 1169 DM loan to purchase a television. At 67, I have been a loyal employee in the public sector for over 8 years, which ensures a stable income. My current account deficit is a temporary situation caused by unexpected obligations to my dependent.
+
+I own my home and have no other installment plans, which allows me to focus on repaying this loan. Despite a critical account history, I have successfully managed two credits with your bank, proving my reliability.
+
+Thank you for your attention to my application. I am hopeful for a favorable outcome.
+
+Sincerely,
+[Your Name]

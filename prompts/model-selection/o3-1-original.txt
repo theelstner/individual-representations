@@ -1,0 +1,106 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Letter 1
+Frankfurt, 12 July 2025
+
+Dear Loan Committee,
+
+My name is Ivan Petrovic, a mechanical maintenance supervisor at Deutsche Bahn’s Frankfurt depot. I have been in this position for nine years and, despite being 67, I continue full-time because my skills remain in demand. I am applying for a 1,169 DM loan over six months to buy a modern combined radio-television set so I can follow German language programmes at home and help my twelve-year-old son improve his vocabulary.
+
+My current account is overdrawn by 380 DM after covering recent school fees and dentistry for my boy. Although I have no savings, I own a small free-hold apartment in Sachsenhausen valued at approximately 190,000 DM and have resided there for four years. I already service two modest instalment credits with your bank (renovation loan and bicycle purchase); every payment has reached you before the due date. The requested loan would add only 4 % to my existing monthly instalment burden, which my net salary of 4,100 DM comfortably covers.
+
+I have spent twenty-nine years in Germany, hold a permanent work permit, and can always be reached on 069-812-445. Your support will further cement the reliable relationship we have enjoyed for years. Thank you for considering my request.
+
+Sincerely,
+Ivan Petrovic
+
+Letter 2
+Munich, 14 July 2025
+
+Dear Sir or Madam,
+
+I am Miguel Santos, senior customs officer at Munich Airport since 2017 and previously with Portuguese customs for fifteen years. I seek a 1,169 DM six-month loan to purchase a digital radio-TV combo that meets new airport-security broadcast standards for home training.
+
+My checking account shows a temporary negative balance of 420 DM due to upfront tuition for my daughter’s nursing course. I hold no savings but own a mortgage-free terraced house in Trudering valued at 235,000 DM, where I have lived the last four years. I currently service two instalment loans from your bank—a kitchen refit and hearing aid—which I have never fallen behind on. The new loan’s 4 % instalment rate would raise my total monthly obligations to just 11 % of my 4,350 DM net salary.
+
+Throughout eight years with the German Federal Finance Authority I have maintained an unblemished employment record and security clearance. I remain single, have one dependent, and my pension benefits will start next year, further strengthening my repayment capacity. Please feel free to contact me at 089-55-66-778 for any clarification.
+
+Thank you for your time and confidence.
+
+Respectfully,
+Miguel Santos
+
+Letter 3
+Heidelberg, 15 July 2025
+
+To the Credit Board,
+
+My name is Ahmed Khan, certified senior laboratory technician at Heidelberg University Hospital for twelve years. I request a 1,169 DM loan over six months to install a combined DAB-TV receiver that will allow me to follow continuing-education broadcasts required by the new medical-device directive.
+
+My current account is 310 DM overdrawn after paying for my son’s disability aids. I hold no savings account, yet I possess a fully paid two-storey house in Rohrbach assessed at 205,000 DM, where I have resided since 2021. I already have two small outstanding credits with your branch, both serviced punctually by automatic debit. Adding the new loan raises my instalments by only 4 %, still well inside the 15 % threshold of my 4,600 DM net monthly income.
+
+I am a foreign worker with permanent residence status, a union member in good standing, and have never received a late-payment notice. My long, stable employment and real-estate collateral underline my reliability. You can reach me any evening at 06221-447-931.
+
+Thank you for considering my application.
+
+Kind regards,
+Ahmed Khan
+
+Letter 4
+Dresden, 16 July 2025
+
+Dear Loans Department,
+
+I am Stefan Novak, senior postal clerk with Deutsche Post in Dresden, continuously employed for ten years. I wish to borrow 1,169 DM for six months, at your standard 4 % rate, to buy a new radio-television set so my hearing-impaired grandson can use its subtitle and amplification functions during his after-school hours with me.
+
+My cheque account is presently 275 DM in the red because I paid property tax early to receive a discount. I own my apartment building in Löbtau, valued at approximately 180,000 DM, where I have lived four years. Although I hold two active credits with your bank, all instalments have been paid ahead of schedule. The additional repayment will bring my total monthly outflow to 9 % of my 3,900 DM pensionable salary.
+
+I am 67, single, with one dependent grandson. My civil-service position provides job security until statutory retirement at seventy, after which my pension will guarantee further liquidity. I carry no other debts. I can be contacted at 0351-88-44-102 for any questions.
+
+I appreciate your consideration and look forward to continuing our successful partnership.
+
+Sincerely,
+Stefan Novak
+
+Letter 5
+Hamburg, 17 July 2025
+
+Esteemed Credit Committee,
+
+My name is Piotr Kowalski. For eight years I have been a certified building inspector with the Hamburg City Construction Office. I request a 1,169 DM loan repayable over six months to purchase a professional-grade radio-TV receiver enabling me to monitor emergency broadcasts during after-hours on-call duty.
+
+My current account shows a deficit of 330 DM following repairs on my work vehicle. I have no savings account, but I do own a detached house in Bergedorf (market value roughly 210,000 DM) where I have lived for four years. I presently service two loans from your institution—a roof repair and language course—both paid punctually by standing order. The new facility will raise my overall instalment burden by merely 4 %, which remains well below 12 % of my monthly net wage of 4,200 DM.
+
+As a foreign worker with permanent residency, I have maintained flawless employment records and hold professional liability insurance that further safeguards my financial stability. You are welcome to reach me at any time on 040-772-911.
+
+Thank you for your trust and for considering my application.
+
+Faithfully yours,
+Piotr Kowalski

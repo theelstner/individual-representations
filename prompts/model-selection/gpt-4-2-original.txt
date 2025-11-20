@@ -1,0 +1,98 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Letter 1:
+
+Dear Sir/Madam,
+
+I am writing to apply for a loan of 1169 for the purpose of purchasing a new television. My current job as an electrical engineer, which I have held for the past 8 years, provides me with a steady income, but my checking account currently holds less than 0 DM.
+
+Despite having other credits not with your bank, I have a proven track record of meeting my financial obligations, as evidenced by my two existing credits with your institution. I have been a responsible homeowner for the past 4 years and I am confident in my ability to manage the proposed 4% installment rate.
+
+I am a single male, aged 67, with one dependent. Although I am a foreign worker, I have established a stable life here and intend to stay long term. I am looking forward to your positive response.
+
+Kind regards,
+
+[Your Name]
+
+Letter 2:
+
+Dear Loan Officer,
+
+I am applying for a loan of 1169 to acquire a radio for my home. I am a single, 67-year-old man employed as a mechanical engineer for the past 9 years. My checking account currently holds less than 0 DM, and I have no savings account.
+
+Although I have other credits elsewhere, I have successfully managed two credits with your bank. I have been living in my own house for 4 years and have no other installment plans. Despite being a foreign worker, I have been consistent in my financial obligations.
+
+I am confident that I can handle the 4% installment rate for the loan. I look forward to your positive consideration.
+
+Sincerely,
+
+[Your Name]
+
+Letter 3:
+
+Dear Sir/Madam,
+
+I am a 67-year-old single male, employed as a civil engineer for the past 10 years. I am applying for a loan of 1169 to purchase a television. I currently have less than 0 DM in my checking account and do not have a savings account.
+
+I have two credits with your bank and have been living in my own house for 4 years. I have no other installment plans and am confident in managing the 4% installment rate. I am a foreign worker with one dependent, and despite having credits with other institutions, I have always met my financial obligations.
+
+I look forward to your favourable response.
+
+Best Regards,
+
+[Your Name]
+
+Letter 4:
+
+Dear Loan Officer,
+
+I am a single 67-year-old man, employed as a chemical engineer for the last 7 years. I am applying for a loan of 1169 to buy a radio for my home. Currently, my checking account holds less than 0 DM and I don't have a savings account.
+
+Despite having credits with other banks, I have always fulfilled my financial obligations. I have two credits with your bank and have been living in my own house for the past 4 years. I am a foreign worker with one dependent, but I am confident in my ability to manage the 4% installment rate.
+
+Thank you for considering my application.
+
+Yours sincerely,
+
+[Your Name]
+
+Letter 5:
+
+Dear Sir/Madam,
+
+I am a 67-year-old single male, working as a software engineer for the past 8 years. I am applying for a loan of 1169 to purchase a television. My checking account currently holds less than 0 DM and I do not have a savings account.
+
+I have other credits but not with your bank. However, I have two existing credits with your bank and have been living in my own house for the last 4 years. I am confident that I can manage the 4% installment rate. I am a foreign worker with one dependent.
+
+I look forward to your positive response.
+
+Kind regards,
+
+[Your Name]

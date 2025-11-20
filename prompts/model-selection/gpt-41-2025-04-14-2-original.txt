@@ -1,0 +1,95 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+Assistant
+Letter 1:
+Dear Sir or Madam,
+
+My name is Jozef Nowak, and I am writing to apply for a loan of 1169 DM to purchase a new television and radio set for my home. I am currently employed as a maintenance supervisor at Siemens AG, where I have worked for the past 9 years. My employment is stable, and I have been living in my own home in Stuttgart for the past 4 years.
+
+Although my checking account is currently overdrawn due to unexpected medical expenses for my son, I have always prioritized my financial obligations. I have two existing credits at your bank, both of which I have managed responsibly and am on track with payments. I own my residence and a small property in Poland, which provides additional security.
+
+I believe I am a reliable candidate for this loan, as I have a consistent employment record, property ownership, and a clear plan to meet the 4% installment payments. This purchase is important for my quality of life, and I am committed to fulfilling my obligations.
+
+Thank you for considering my application.
+
+Sincerely,
+Jozef Nowak
+
+Letter 2:
+Dear Loan Officer,
+
+My name is Miguel Alvarez, and I am requesting a loan of 1169 DM to purchase a new radio and television. After 8 years as a customs officer at the Hamburg port authority, I have demonstrated steady employment and reliability. I have lived in my own home for 4 years and am responsible for supporting my nephew.
+
+While my checking account is currently negative, this is due to a recent family emergency back in Spain, which I have now resolved. I have two other small loans with your bank, which I am repaying on time. I do not have other installment plans or guarantors, but I am the sole owner of my property.
+
+As a foreign worker, I take my responsibilities seriously and have always honored my commitments. I am confident that I can meet the repayment terms, and this purchase will greatly enhance my home life.
+
+Thank you for your time and consideration.
+
+Best regards,
+Miguel Alvarez
+
+Letter 3:
+Dear Banking Team,
+
+I am writing to apply for a loan of 1169 DM to buy a television and radio set. My name is Tomasz Zielinski, and I have worked as a certified laboratory technician at BASF for 10 years. I am a single father supporting my adult daughter as she completes her studies.
+
+Although my account is currently overdrawn, my financial difficulties are temporary and stem from recent home repairs. I have two existing credits with your bank, both in good standing, and no other outstanding debts. I own my home and have lived there for 4 years.
+
+I am committed to meeting the 4% installment payments and believe my long-term employment and property ownership demonstrate my trustworthiness. I appreciate your consideration and look forward to your positive response.
+
+Kind regards,
+Tomasz Zielinski
+
+Letter 4:
+Dear Loan Department,
+
+My name is Ahmed El Sayed, and I am applying for a loan of 1169 DM to purchase a new television and radio for my home. I am currently employed as a railway signal controller with Deutsche Bahn, a position I have held for 7 years. I have lived in my own house in Frankfurt for the last 4 years and have one dependent, my grandson, who lives with me.
+
+My checking account is currently below zero due to an unexpected travel expense to Egypt, but I have always managed my finances responsibly. I have two existing loans with your bank, both of which are being paid on schedule. I have no other debts or installment plans, and my home is fully owned.
+
+I am a diligent worker and have always honored my commitments. I am confident in my ability to repay this loan and would be grateful for your support.
+
+Thank you for your attention.
+
+Sincerely,
+Ahmed El Sayed
+
+Letter 5:
+To Whom It May Concern,
+
+I am Stefan Petrović, a foreign worker from Serbia, and I am seeking a loan of 1169 DM for the purpose of purchasing a radio and television. For the past 11 years, I have worked as a municipal building inspector in Munich. I have lived in my own home for 4 years and am responsible for supporting my brother.
+
+My account is currently overdrawn following an urgent repair to my property’s roof. I have two existing credits with your bank and have always made my payments on time. I own my home and have no additional loans or debts elsewhere.
+
+I take pride in my reliability and commitment to fulfilling my obligations. This purchase will improve my daily life, and I am prepared to meet the repayment schedule.
+
+Thank you for considering my application.
+
+Respectfully,
+Stefan Petrović

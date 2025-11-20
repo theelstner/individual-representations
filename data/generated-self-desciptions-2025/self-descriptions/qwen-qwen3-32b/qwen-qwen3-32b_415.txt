@@ -1,0 +1,71 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific instances of the generic attributes. Let me start by breaking down the profile to make sure I cover all the details.
+
+First, the profile says the person is an unskilled resident, male, single, 40 years old, with two dependents. They've been in their current job for 1 to 4 years. They don't have a checking account, have a savings account with 500-1000 DM, and have a credit history where previous credits were paid back. The purpose of the loan is a new car, amount 1597 DM. They don't have any other installment plans, their housing is rented, they've lived in their residence for 2 years, no property, no telephone, no foreign worker status, and one existing credit at the bank. They don't have other debtors or guarantors.
+
+Now, I need to create five different people with specific jobs instead of "unskilled resident." Let me think of different unskilled jobs. Maybe construction worker, warehouse assistant, janitor, delivery helper, and a security guard. Each person will have unique circumstances but fit the profile.
+
+For each letter, they need to explain why they're applying for the loan, their financial situation, and why they're trustworthy. They should mention their savings, current employment duration, residence duration, dependents, and previous credit history. Each letter should be concise and not cut off.
+
+Let me start with the first person: a construction worker. He needs a car for commuting. He's been working at a construction site for 2 years. He has a savings account with 700 DM. He's responsible with past loans, so the bank should trust him. He mentions his dependents and how the car will help his job stability.
+
+Second person: warehouse assistant. She's been employed for 3 years, has 600 DM in savings. She needs a reliable car to get to work, which is 30 km away. She's paid back previous credit, so trustworthy. She has two dependents and lives in the same residence for 2 years.
+
+Third person: security guard. Works at a shopping mall, 3 years on the job. 800 DM in savings. Needs a car for night shifts. Emphasizes punctuality and responsibility. No checking account but manages savings.
+
+Fourth person: janitor at a school. Employed for 1 year, 500 DM in savings. Needs a car to reach work early. Has a good credit history. Two dependents, stable job.
+
+Fifth person: delivery helper for an e-commerce company. 4 years at the job, 900 DM savings. Needs a vehicle for daily deliveries. Reliable, always paid on time. Lives in the same residence for 2 years.
+
+I need to make sure each letter includes specific numbers: duration of employment (between 1-4 years), savings amount between 500-1000 DM, residence since 2 years, age 40, single with two dependents, no checking account, etc. Also, mention the purpose as a new car, the loan amount, and why they're trustworthy (credit history, savings, stable job).
+
+Check that each letter is unique in the person's job and specific details. Avoid repetition in the reasons for needing the car. Each should have a slightly different angle but all fit the profile. Make sure the letters are properly ended with a closing and name, no formatting.
+</think>
+
+**Letter 1**  
+Dear Sir or Madam,  
+
+I am writing to apply for a loan of 1,597 DM to purchase a new car. As a construction worker at a local building site, I have been employed for 2 years and earn a stable monthly income of 2,200 DM. I currently save 600 DM in a savings account and have no other debts beyond my existing credit with this bank, which I have consistently repaid. My wife and two children depend on my income, and a reliable vehicle is essential to commute to my job, which is 15 km from my rented home. At 40 years old, I prioritize financial responsibility and have maintained my residence in the same neighborhood for 2 years. I kindly request your trust in my ability to manage this loan responsibly.  
+
+Sincerely,  
+Markus Reinhardt  
+
+---
+
+**Letter 2**  
+Dear Bank Manager,  
+
+I seek a loan of 1,597 DM to purchase a car for my daily work as a warehouse assistant at a logistics company. I have held this position for 3 years, earning 1,950 DM monthly. My savings account holds 750 DM, and I have no other installment plans. I am a 40-year-old single father raising two children, and reliable transportation is critical to my job stability. I have a history of repaying previous credits without delay and reside in my current rented apartment for 2 years. My employer values my punctuality, and I am confident I can meet repayment terms. Thank you for considering my application.  
+
+Best regards,  
+Lars Müller  
+
+---
+
+**Letter 3**  
+To Whom It May Concern,  
+
+I am applying for a 1,597 DM loan to buy a car necessary for my role as a security guard at a shopping mall. I have worked this job for 3 years, with a monthly salary of 2,000 DM. I maintain 800 DM in savings and have no additional debts. At 40, I support my two children and aim to ensure my ability to reach night shifts reliably. My previous credit with this bank was repaid in full, and I have lived in my current residence for 2 years. I assure you of my commitment to timely repayments and appreciate your consideration.  
+
+Respectfully,  
+Tobias Fischer  
+
+---
+
+**Letter 4**  
+Dear Sir or Madam,  
+
+I request a loan of 1,597 DM to purchase a vehicle for my work as a janitor at a local school. I have been employed there for 1 year, earning 1,800 DM monthly. My savings account contains 500 DM, and I have no other outstanding loans. I am 40 years old, single, and care for two dependents. A car will allow me to reach my early morning shifts efficiently. I have always repaid my prior credit responsibly and have lived in my rented home for 2 years. I am confident in my ability to meet this loan’s terms.  
+
+Sincerely,  
+Andreas Becker  
+
+---
+
+**Letter 5**  
+Dear Bank Officer,  
+
+I am applying for a 1,597 DM loan to buy a car for my job as a delivery helper at an e-commerce company. I have worked there for 4 years, with a stable income of 2,100 DM per month. My savings account holds 900 DM, and I have no other financial obligations. At 40, I support my two children and need reliable transportation to complete daily deliveries. I have a clean credit history with this bank and have resided in my current rental apartment for 2 years. I am committed to fulfilling my repayment schedule and hope for your approval.  
+
+Yours faithfully,  
+Jan Schmidt

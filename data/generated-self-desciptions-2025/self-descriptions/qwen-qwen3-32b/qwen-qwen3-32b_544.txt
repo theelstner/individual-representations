@@ -1,0 +1,88 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific instances of the generic attributes. Let me start by breaking down the profile.
+
+First, the profile has a checking account with less than 0 DM, which is negative. The duration is 30 months. Credit history shows existing credits paid back duly. Purpose is furniture/equipment, credit amount 6350. Savings account is unknown or none. Employment for at least 7 years. Installment rate 4. Single male, no other debtors. Residence since 4 years. Property is building society savings or life insurance. Age 31, no other installment plans, own housing, one existing credit at the bank, job as skilled employee or official, one dependent, no telephone, foreign worker.
+
+So for each letter, I need to create different people. Let me think of different jobs that fit "skilled employee / official". Maybe a scientific research assistant, electrician, teacher, IT technician, and a mechanic. Each with specific details.
+
+First person: Scientific research assistant. Let's say he's working at a university. He needs furniture for a new home. He's been employed for 8 years. He has a life insurance policy. He's a foreign worker from, say, India. He has a dependent, maybe a child. He mentions his stable job and timely repayments.
+
+Second person: Electrician. Maybe he's self-employed or working for a company. Needs equipment for his business. Has a building society savings agreement. Lives in the same residence for 4 years. Also a foreign worker, maybe from Poland. Single, one dependent (maybe a parent). Emphasizes his steady income and existing credit history.
+
+Third person: Teacher. Public school teacher. Needs to buy furniture for a classroom. Employed for 7 years. Property is life insurance. From Spain, foreign worker. Has a child. Highlights his secure job and timely payments.
+
+Fourth person: IT technician. Works for a tech company. Needs equipment for home office. 9 years in job. Building society savings. From Brazil. Owns a home. One dependent. Stresses his long employment and good credit history.
+
+Fifth person: Automotive mechanic. Owns a repair shop. Needs tools and equipment. Employed for 10 years. Life insurance. From Mexico. Single, one dependent (sibling). Mentions steady income and existing credit management.
+
+Each letter should start with their name, address, date, bank address. Then explain their purpose, financial situation, why they're trustworthy. Make sure to include specific numbers: 6350 DM, installment rate 4, 30 months, etc. Also mention their existing credit paid back, residence duration, job stability. Avoid formatting, keep it concise, proper ending.
+
+Check that each letter is unique in their profession, origin, specific reasons for loan, and personal details. Make sure they don't have savings accounts, but have property like life insurance or building society. Also, no telephone, but maybe that's outdated, but the profile says none, so include that they don't have a phone (maybe use mobile instead? But the profile says telephone:none, so perhaps they don't have a landline, but maybe it's better to just note that as per profile).
+
+Also, each letter should have a proper closing without formatting. Sign off with "Sincerely," and name.
+
+Let me draft each one step by step, ensuring they meet all criteria.
+</think>
+
+Mr Bank Department  
+123 Main Street  
+Citytown  
+
+Dear Sir or Madam  
+
+I am writing to apply for a loan of 6350 DM to purchase essential furniture for my new apartment. As a scientific research assistant at the University of Citytown for the past 8 years, I have a stable income of 2800 DM monthly. Though my current checking account is temporarily overdrawn due to recent medical expenses, I have consistently repaid previous credits, including a 4000 DM student loan, without delay. I own a life insurance policy valued at 12000 DM and have resided at my current address for 4 years. With a single dependent (my 5-year-old daughter) and no other debts, I can comfortably manage the 4 DM installment rate. As a foreign worker from India, I am committed to fulfilling my financial obligations.  
+
+Sincerely  
+Lars Müller  
+
+---  
+
+Mr Bank Department  
+123 Main Street  
+Citytown  
+
+Dear Sir or Madam  
+
+I request a 6350 DM loan to upgrade my electrical workshop equipment. As a certified electrician employed by Steinhauer GmbH for 9 years, I earn 3100 DM monthly. While I lack a savings account, I hold a building society savings agreement worth 8000 DM. My current checking account balance is temporarily negative due to a recent vehicle repair, but I have no other debts. I have lived at my residence for 4 years and own my home. Having repaid a prior 5000 DM equipment loan in full, I am confident in managing this installment plan. As a Polish foreign worker, I value financial responsibility.  
+
+Sincerely  
+Tomasz Becker  
+
+---  
+
+Mr Bank Department  
+123 Main Street  
+Citytown  
+
+Dear Sir or Madam  
+
+I seek a 6350 DM loan to furnish my classroom for the upcoming school year. For the past 7 years, I have been a public school teacher in Citytown, earning 2900 DM monthly. My checking account is currently overdrawn due to unexpected roof repairs, but I have no savings account and rely on a life insurance policy for assets. I have lived at my current address for 4 years and have one dependent, my mother, whom I support. My sole existing credit—a 3000 DM car loan—is paid punctually. As a Spanish foreign worker, I take pride in my reliable payment history.  
+
+Sincerely  
+Carlos Fischer  
+
+---  
+
+Mr Bank Department  
+123 Main Street  
+Citytown  
+
+Dear Sir or Madam  
+
+I am applying for a 6350 DM loan to purchase home office equipment for my IT support business. Employed as a network technician at TechNova AG for 9 years, I earn 3300 DM monthly. Though my checking account is temporarily negative due to a family emergency, I have no other debts and a building society savings agreement worth 10000 DM. I reside in my owned home and have repaid all prior credits, including a 5000 DM tool loan. With one dependent (my sister) and a stable income, I can manage the 4 DM installment. As a Brazilian foreign worker, I prioritize financial discipline.  
+
+Sincerely  
+Rafael Schmidt  
+
+---  
+
+Mr Bank Department  
+123 Main Street  
+Citytown  
+
+Dear Sir or Madam  
+
+I need a 6350 DM loan to acquire diagnostic tools for my automotive repair shop. As a master mechanic at AutoFix GmbH for 10 years, I earn 3200 DM monthly. My checking account is currently overdrawn due to a delayed paycheck, but I have no savings account and own life insurance valued at 15000 DM. I have lived at my residence for 4 years and own my home. With one dependent (my father) and no other debts, I am capable of handling this installment plan. My prior 4500 DM equipment loan was repaid fully. As a Mexican foreign worker, I am committed to meeting obligations.  
+
+Sincerely  
+Javier Weber

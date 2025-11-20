@@ -1,0 +1,101 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific instances of the generic attributes. Let me start by understanding the profile details.
+
+First, the profile mentions a checking account with at least 200 DM and salary assignments for at least a year. The loan duration is 6 months, purpose is furniture/equipment, amount 2116 DM. Savings account/bonds less than 100 DM. Employment since 1 to 4 years, credit history of existing credits paid back. The person is a male, single, with no other debtors or guarantors, residence since 2 years, property is real estate, age 41, no other installment plans, housing in own, 1 existing credit at the bank, job as skilled employee/official, 1 dependent, has a telephone, and is a registered foreign worker.
+
+I need to create five different people with specific roles. Let me brainstorm roles: maybe a scientific research assistant, a mechanic, a teacher, a nurse, and an IT technician. Each should have unique details but fit the profile.
+
+For each letter, the structure should include: purpose of the loan (specific furniture or equipment), financial situation (current job, salary, existing credit paid back), trustworthiness (stable job, residence, no other debts). Also, mention checking account status, savings, employment duration, etc., with specific numbers. Each letter should end properly without formatting.
+
+Let me start with the first person. Maybe a scientific research assistant. He needs furniture for a new home office. Employed for 3 years, has a real estate property, one dependent. Existing credit paid back. Savings under 100 DM. Check account over 200 DM. Include specific numbers like 8 years at the job? Wait, profile says present employment since 1 <= ... <4 years. So employment duration is between 1 and 4 years. Let me pick 3 years. The credit amount is 2116 DM, installment rate 2 DM. Wait, installment rate might be 2%? Or 2 DM per month? Maybe the rate is 2% annual. Need to clarify. But since the user says "installment rate:2", maybe it's 2 DM per month. But maybe it's better to not overcomplicate and just mention that the repayment plan is manageable.
+
+Each letter should have a subject line, address to the bank, body with purpose, financial situation, trustworthiness, and a closing. Make sure to vary the specific instances for each person. Let me outline each person:
+
+1. Scientific Research Assistant: Needs office furniture for home workspace. Employed 3 years, 41 years old, single with one child. Existing credit for car paid back. Real estate owner. Savings <100 DM, checking account over 200 DM. Installment manageable with salary.
+
+2. Automotive Mechanic: Equipment for workshop. Employed 2.5 years, own workshop, real estate. Savings low but steady income. Paid back previous loan. Dependents: spouse and child.
+
+Wait, the profile says dependents: 1. So each person has one dependent. Let me adjust. Maybe the first person has a child, the second has a spouse, etc.
+
+Third: Teacher. Needs furniture for a classroom. Employed 2 years, 41, single, one dependent (maybe a parent). Owns property. Savings low, but steady salary.
+
+Fourth: Nurse. Equipment for home office. Employed 1.5 years, single, one child. Real estate, checking account, paid back previous credit.
+
+Fifth: IT Technician. Furniture for home office. Employed 3 years, single, one dependent. Owns property, low savings but stable income.
+
+Need to ensure each has different job roles, specific employment duration (e.g., 3 years, 2 years, etc.), different purposes (home office, workshop equipment, classroom, etc.), and unique details. Also, mention the existing credit at the bank, which they paid back. Each letter should be concise, around 150-200 words.
+
+Let me start drafting each letter, making sure to include all required elements and personalize each one. Check that all profile attributes are covered with specific numbers and roles. Avoid generic terms, use specific instances. Make sure the letters are properly ended with a closing and signature.
+</think>
+
+**Motivation Letter 1**  
+Dear Sir/Madam,  
+
+I am writing to apply for a loan of 2116 DM to purchase new office furniture for my home workspace. As a scientific research assistant at the University of Munich for the past 3 years, I require an ergonomic setup to maintain productivity. My current salary of 2800 DM/month, combined with my stable employment, allows me to manage monthly installments of 2 DM.  
+
+I have maintained a checking account with your bank for over a year, consistently holding a minimum balance of 250 DM. My previous credit for a laptop was fully repaid, and I currently own real estate in my name. Though my savings account holds only 80 DM, my long-term residence in the same apartment (2 years) and ownership of property demonstrate financial responsibility.  
+
+At 41 years old, I support one dependent (my daughter). As a registered foreign worker with a German telephone, I am committed to fulfilling repayment obligations. I kindly request your approval, confident in my ability to repay promptly.  
+
+Sincerely,  
+Lars Müller  
+
+---
+
+**Motivation Letter 2**  
+Dear Bank Manager,  
+
+I seek a 2116 DM loan to upgrade my workshop equipment as an automotive mechanic. Employed at Weiss Garage for 2.5 years, I earn 2600 DM/month. My existing credit for tools was repaid in full, and I own a condominium in Stuttgart.  
+
+My checking account has exceeded 200 DM for 12 months, though my savings remain below 100 DM due to recent repairs. I reside in my current apartment for 2 years and have no other debts. With one dependent (my mother), I manage expenses carefully.  
+
+At 41, my stable income and property ownership assure timely repayments. I am registered as a foreign worker and value your bank’s trust.  
+
+Thank you for considering my application.  
+
+Best regards,  
+Tariq Rahman  
+
+---
+
+**Motivation Letter 3**  
+Dear Sir/Madam,  
+
+I apply for a loan to furnish a classroom for my private tutoring business. As a certified teacher at a secondary school for 2 years, I need desks and storage. My salary of 2400 DM/month covers installments.  
+
+I have held a checking account with your bank for 14 months and repaid a prior credit for classroom supplies. My savings are minimal (90 DM) but I own a townhouse in Dresden. Single and supporting my elderly father, I prioritize financial stability.  
+
+With 41 years of age and no other debts, I assure punctual repayments. My residence here for 2 years and registered foreign worker status reflect reliability.  
+
+Gratefully,  
+Elena Fischer  
+
+---
+
+**Motivation Letter 4**  
+Dear Bank Team,  
+
+I request 2116 DM to purchase medical equipment for home telehealth consultations. Working as a nurse at City Hospital for 18 months, I earn 2300 DM/month. My existing credit for a car was repaid, and I own a small apartment in Berlin.  
+
+My checking account maintains 220 DM, while savings are 70 DM. I’ve lived in my residence for 2 years and have no additional debts. Supporting my son alone, I manage finances prudently.  
+
+At 41, my steady employment and property ownership confirm my ability to repay. As a registered foreign worker, I appreciate your continued support.  
+
+Warm regards,  
+Omar Silva  
+
+---
+
+**Motivation Letter 5**  
+Dear Sir/Madam,  
+
+I am applying for a loan to equip my new IT home office. As a software technician at TechNova for 3 years, I require a dual-monitor setup. My 2400 DM/month salary ensures installment coverage.  
+
+I hold a checking account with your bank for over a year, maintaining 210 DM. Though my savings are 50 DM, I own real estate in Hamburg. My prior credit for a laptop was repaid, and I have no other debts.  
+
+Single and caring for my son, I value financial discipline. At 41, with 3 years of employment and stable housing, I am confident in my repayment capacity.  
+
+Thank you for your consideration.  
+
+Sincerely,  
+Jan Novak

@@ -1,0 +1,103 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Letter 1 – From a Scientific Research Assistant
+
+Dear Sir or Madam,
+
+I am writing to apply for a loan of 1,169 DM to purchase a new television and radio set. As a scientific research assistant at the Max Planck Institute, where I have been employed for 8 years, I rely on up-to-date media equipment for both my work and personal enrichment.
+
+My current financial situation is temporarily strained, as my checking account is currently overdrawn and I have existing credit obligations outside your bank. However, I have maintained steady employment and own my home in Frankfurt, where I have lived for 4 years. My income is stable, and I have always made timely payments on my existing loans with your bank.
+
+With no savings at present, this loan is essential for me to stay connected with news and educational programs. I am a single father supporting my adult son, and I take my financial commitments very seriously. I believe my long-term employment, property ownership, and responsible credit history with your bank demonstrate my reliability.
+
+Thank you for considering my application.
+
+Sincerely,
+Dragan Petrovic
+
+Letter 2 – From a Customs Officer
+
+Dear Loan Officer,
+
+I am seeking a loan of 1,169 DM to purchase a new radio and television set for my home. As a customs officer at the Hamburg Port Authority, I have worked in this role for 9 years and take great pride in my service and financial responsibility.
+
+Although my current account is overdrawn and I have two existing loans with your bank, I have never missed an installment. I own my residence in Hamburg and have lived here for 4 years, providing stability for myself and my dependent son. Unfortunately, I do not have a savings account at this time due to recent family expenses.
+
+As a single man supporting my son, this loan will help me provide essential access to news and information, which is important for both my work and our daily life. My property ownership, stable career, and history of meeting payment obligations make me a trustworthy candidate.
+
+Thank you for your time and consideration.
+
+Best regards,
+Ivan Kovacs
+
+Letter 3 – From a Mechanical Engineer
+
+Dear Banking Team,
+
+I am writing to request a loan of 1,169 DM to purchase a new radio and television. I have been employed as a mechanical engineer at Siemens AG for the past 10 years, and I am committed to keeping up with technological advancements in my field.
+
+Currently, my checking account is below zero, and I have other credits outside your bank, but I have always honored my financial commitments and have two active credits with your institution, both in good standing. I own my home in Munich, where I have resided for 4 years, and I have no other installment plans or guarantors.
+
+As a single father supporting my adult daughter, my resources are sometimes stretched, but my property and steady employment ensure I am a reliable borrower. I have no savings at present but am confident I can manage the monthly installment rate of 4%.
+
+Thank you for considering my application.
+
+Sincerely,
+Ahmed Al-Mansouri
+
+Letter 4 – From a Public Health Official
+
+Dear Sir or Madam,
+
+I am applying for a loan of 1,169 DM to purchase a modern television and radio. I have been employed as a public health official in Stuttgart for 7 years, and staying informed is essential for my job and family.
+
+My financial situation is currently challenging, as my checking account is overdrawn and I have existing credits elsewhere. However, I have consistently paid my two loans with your bank on time. I own my home, have lived here for 4 years, and have no other debts or installment plans.
+
+Supporting my dependent nephew as a single man, I am committed to meeting my financial responsibilities. My property, stable employment, and positive repayment history with your bank reflect my trustworthiness.
+
+Thank you for your consideration.
+
+Kind regards,
+Piotr Nowak
+
+Letter 5 – From a Senior IT Administrator
+
+Dear Loan Officer,
+
+I wish to apply for a loan of 1,169 DM to purchase a new radio and television. I have worked as a senior IT administrator at Deutsche Telekom for the past 8 years and rely on up-to-date media for both my work and leisure.
+
+My checking account is currently overdrawn, and I have other credit obligations outside your bank. However, I have successfully managed two loans with your bank, always making payments on time. I own my home in Düsseldorf, where I have lived for 4 years, and have no savings or other installment plans.
+
+As a single man supporting my son, I am dedicated to fulfilling my financial obligations. My long-term employment, property ownership, and responsible credit history make me a reliable candidate for this loan.
+
+Thank you for your consideration.
+
+Sincerely,
+Carlos Fernandes

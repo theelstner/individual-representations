@@ -1,0 +1,78 @@
+<think>
+Okay, let's tackle this query. The user wants me to write five motivation letters for a bank loan application. Each letter has to be from a different person with specific attributes based on the given profile. First, I need to make sure I understand the profile details.
+
+The profile mentions a foreign worker who is a skilled employee, male, single, 50 years old, has been in a job for 1-4 years, has no checking account but has savings between 500-1000 DM. The purpose is a used car loan of 1236 DM. They have a good credit history, no other debts, live in rented housing, and have a building society savings agreement or life insurance. They've been in their residence for 4 years, have one existing credit at the bank, and no telephone.
+
+I need to create five distinct individuals. Each should have unique specifics. Let me brainstorm different job roles under "skilled employee/official." Maybe a mechanic, electrician, IT technician, nurse, and a teacher? Each will have different reasons for needing a car. For example, a mechanic might need a reliable car to reach job sites, a nurse for shifts, etc.
+
+Next, each person's financial situation must align with the profile. They all have similar savings, employment duration, and residence time. I should vary the specifics slightly. For example, one might have been working as a mechanic for 2 years, another as an electrician for 3 years. Their savings could be different amounts within the 500-1000 DM range.
+
+Trustworthiness is key. Each letter should emphasize timely repayment of past credits, stable employment, and how the car will improve their financial situation. Maybe mention how having a car will allow them to take more jobs or commute better, increasing their income.
+
+I need to ensure each letter is concise, starts with their name and address, then the bank's details. They should state their purpose clearly, their current financial standing, and why they're trustworthy. Avoid any formatting, just plain text. Also, make sure each ends properly with a sign-off.
+
+Wait, the user mentioned "Do not cut off the letter - be sure to write a proper ending!" So each letter needs a full conclusion, maybe thanking the bank and expressing hope for approval. Also, no markdown, just plain text with line breaks.
+
+Let me check the example they provided. The sample letters have specific job roles, exact numbers (like 8 years instead of >=7), and personal touches. Each has a unique angle. For instance, one might need the car for work-related travel, another for family reasons.
+
+I need to vary the reasons: job requirements, dependents needing transport, starting a side business, etc. Also, different savings amounts, like 600 DM, 750 DM, etc. Each person's employment duration should be between 1-4 years, so maybe 2, 3, 1.5, etc.
+
+Also, since they're foreign workers, maybe mention their legal status or how long they've been working in the country. But the profile says "foreign worker: yes," so perhaps just stating their employment without going into too much detail.
+
+Make sure each letter is from a different perspective, with unique personal circumstances but all fitting the profile. Avoid repetition in the reasons and job roles. Check that all profile attributes are covered in each letter: checking account status, credit history, savings, employment duration, residence, etc.
+
+Let me outline each of the five letters:
+
+1. Automotive Electrician: Needs a van for work. Savings 700 DM, employed 3 years.
+2. IT Technician: Needs a car for client visits. Savings 600 DM, employed 2 years.
+3. Nurse: Needs reliable transport for night shifts. Savings 900 DM, employed 1.5 years.
+4. Construction Site Manager: Needs a truck for job. Savings 550 DM, employed 4 years.
+5. Language Teacher: Needs a car for tutoring jobs. Savings 800 DM, employed 2.5 years.
+
+Each should mention their specific job, how the car aids their work, their savings, employment duration, and residence. Emphasize timely repayment and financial responsibility. Make sure they all have a dependent (1 child), rent housing, and have a building society savings agreement.
+
+Now, draft each letter with these specifics, keeping them short and concise. Avoid generic terms, use exact numbers and roles. Ensure each ends properly with a thank you and hope for approval.
+</think>
+
+Dear [Bank Name],  
+
+My name is Carlos Mendez, and I am a 50-year-old automotive electrician working at AutoTech Solutions in Frankfurt. I have been employed there for 3 years and earn a stable monthly income of 2,800 DM. I am applying for a 1,236 DM loan to purchase a used van to replace my current vehicle, which is essential for reaching job sites across the region. I currently save 700 DM in a building society account and have no outstanding debts beyond my existing credit here, which I have repaid punctually for 6 months. As a foreign worker with a permanent residency permit, I have lived in my rented apartment for 4 years and prioritize financial responsibility. I kindly request your approval to invest in reliable transportation that supports my livelihood. Thank you for considering my application.  
+
+Sincerely,  
+Carlos Mendez  
+
+---  
+
+Dear [Bank Name],  
+
+I am writing as Ahmed Khaled, a 50-year-old IT technician at DataSecure GmbH. With 2 years at my current job and a monthly salary of 3,100 DM, I need a used car to efficiently travel between client locations. My savings account holds 600 DM, and I have consistently repaid my previous credit here without delay. I am a single father to a 12-year-old daughter and live in a rented home I’ve occupied for 4 years. Though I do not own a telephone, I manage my finances diligently and prioritize timely payments. This loan will significantly improve my work productivity and family’s mobility. I assure you of my commitment to repaying the installment rate of 2 DM monthly. Thank you for your trust.  
+
+Best regards,  
+Ahmed Khaled  
+
+---  
+
+Dear [Bank Name],  
+
+My name is Rajiv Patel, a 50-year-old nurse at City Hospital. I have worked here for 1.5 years, earning 2,500 DM monthly, and require a reliable car to commute during my rotating night shifts. I currently save 900 DM through a life insurance policy and have no debts apart from my 6-month-old credit here, which I repay in full each month. As a foreign worker since 2018, I’ve resided in my rented flat for 4 years and take my financial obligations seriously. This loan will ensure I can continue providing care without transportation disruptions. I kindly ask for your support and guarantee timely repayment. Thank you for your consideration.  
+
+Yours faithfully,  
+Rajiv Patel  
+
+---  
+
+Dear [Bank Name],  
+
+I am Sebastian Müller, a 50-year-old construction site manager employed at UrbanBuild for 4 years. My monthly income of 3,300 DM allows me to save 550 DM, but I need a used truck for work-related travel. I have no checking account but maintain a building society savings agreement and have always repaid credits responsibly. My existing loan with your bank is current, and I have no other debts. I rent an apartment I’ve lived in for 4 years and am the sole provider for my 15-year-old son. This vehicle will enhance my job performance and family’s stability. I am confident in my ability to meet the 2 DM installment rate. Thank you for your trust.  
+
+Respectfully,  
+Sebastian Müller  
+
+---  
+
+Dear [Bank Name],  
+
+My name is Luis Ortega, a 50-year-old language teacher at Goethe Institute. With 2.5 years of employment and a salary of 2,700 DM, I seek a car to expand my private tutoring opportunities across cities. My savings of 800 DM and punctual repayment of my existing credit here reflect my financial discipline. I am a single parent living in a rented home for 4 years and have no other installment plans. As a foreign worker since 2019, I value stability and reliability. This loan will directly contribute to my income growth and ability to support my daughter. I am committed to repaying this loan and appreciate your consideration.  
+
+Sincerely,  
+Luis Ortega

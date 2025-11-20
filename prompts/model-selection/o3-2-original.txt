@@ -1,0 +1,106 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Letter 1
+Stuttgart, 15 July 2025
+
+Dear Loan Committee,
+
+My name is Miguel Alvarez, a 67-year-old senior machine technician employed at Stuttgart Toolworks for the past nine years. I am requesting a six-month loan of DM 1,169 to purchase a new digital television-radio set so my grandson, whom I support, can continue his distance-learning courses.
+
+Although my current checking account is slightly overdrawn after recent roof repairs, my financial base is solid. I own my fully paid-off house on Schillerstraße, valued at DM 220,000, and hold a secure permanent contract with a net monthly income of DM 3,400. I have two small, well-serviced credits with your bank and no other installment plans.
+
+The requested amount will be repaid at 4 % installments automatically debited from my salary account. My stable employment, property ownership, and clean repayment record with you underline my reliability.
+
+Thank you for considering my application. I am available by telephone at any time for additional information.
+
+Sincerely,
+Miguel Alvarez
+
+Letter 2
+Hamburg, 18 July 2025
+
+Dear Sir or Madam,
+
+I am Ahmed Khan, a single 67-year-old senior customs officer at the Port of Hamburg, serving for eight years under civil-service status. I wish to finance a DM 1,169 smart TV-radio combination unit that will allow me to follow maritime traffic updates from home and tutor my dependent nephew.
+
+My checking account shows a temporary negative balance after I advanced school fees for the boy, but my monthly net income of DM 3,600 and a paid-up townhouse in Altona valued at DM 190,000 provide ample security. I have two modest credits with your bank—both paid punctually—and no other debt.
+
+With a six-month term and 4 % installments, repayment will be deducted from my salary account, ensuring full transparency. My long public-sector career and property ownership make me a trustworthy borrower.
+
+Kind regards,
+Ahmed Khan
+
+Letter 3
+Leipzig, 20 July 2025
+
+Dear Loans Department,
+
+I am Georgi Petrov, age 67, employed as a certified electrical draftsman for Deutsche Bahn for ten consecutive years. I request a DM 1,169 loan over six months to upgrade my aging radio and television so I can continue monitoring technical broadcasts relevant to my work and entertain my dependent daughter.
+
+A recent medical bill pushed my checking account below zero, yet my net monthly salary of DM 3,250, combined with a mortgage-free apartment worth DM 160,000, guarantees repayment capacity. I maintain two active credits with your institution and have never missed a payment.
+
+I agree to repay the loan through 4 % monthly installments via direct debit. My stable income, debt-free real estate, and spotless repayment history attest to my reliability.
+
+Thank you for your consideration. I am reachable by phone for any clarification.
+
+Respectfully,
+Georgi Petrov
+
+Letter 4
+Ludwigshafen, 22 July 2025
+
+Dear Credit Officer,
+
+My name is Paolo Ricci, a laboratory glassware specialist at BASF, employed for 7 ½ years. I seek a DM 1,169 loan to buy a combined DAB radio and 4K television, enabling me to follow industry webinars and provide educational programming to the grandson in my care.
+
+While my current account shows a small overdraft after unexpected dental surgery, I draw a steady DM 3,300 net each month and own a detached house on Berliner Ring, valued at DM 210,000. I hold two punctual credits with your bank and carry no other obligations.
+
+With a 4 % installment rate over six months, repayment will be automatic from my salary account. My long-term employment, property equity, and consistent payment record reflect my trustworthiness.
+
+I appreciate your favorable review and remain available by telephone for any questions.
+
+Sincerely,
+Paolo Ricci
+
+Letter 5
+Munich, 24 July 2025
+
+Dear Banking Team,
+
+I am Victor Santos, 67, serving as a municipal bus dispatcher for the Munich Transport Authority for eleven years. I request a DM 1,169 loan payable over six months to replace my outdated radio-television unit, essential for following transit bulletins and supporting my dependent grandson’s studies.
+
+My checking account is temporarily negative because of recent property-tax adjustments, yet my net salary of DM 3,500 and a debt-free condominium in Schwabing valued at DM 185,000 underpin my financial stability. I maintain two existing credits with your bank, both serviced flawlessly.
+
+I will repay the loan at the agreed 4 % installment rate through automatic deduction. My secure public-sector position, real-estate ownership, and impeccable repayment history qualify me as a reliable borrower.
+
+Thank you for your time and consideration. Feel free to call me should further information be required.
+
+Best regards,
+Victor Santos

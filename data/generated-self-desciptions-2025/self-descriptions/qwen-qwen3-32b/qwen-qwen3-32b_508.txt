@@ -1,0 +1,84 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific details. Let me start by breaking down the profile to make sure I include all the required elements.
+
+First, the profile mentions a checking account with at least 200 DM and salary assignments for at least a year. The duration in months is 15, so each person has been with their current employer for 1 to 4 years. The credit history is critical with other credits existing but not at this bank. The purpose is a used car, credit amount 2360 DM. Savings account between 500-1000 DM. Present employment since 1-4 years. Installment rate 2. Male, single, no other debtors, residence since 2 years, property like a car, age 36, housing in own, no other installment plans, job as skilled employee or official, one dependent, has a telephone, and is a registered foreign worker.
+
+So for each letter, I need to create a unique person with these specifics. Let me think of different professions under "skilled employee / official". Maybe a scientific research assistant, electrician, IT technician, teacher, and a mechanic. Each should have a unique reason for needing the car. Let me assign each a different angle.
+
+First person: Scientific research assistant. He needs a reliable car for commuting to a lab and attending conferences. He has been employed for 2.5 years. Savings 700 DM. Lives in own housing, has a car already. Single with one dependent, maybe a child. Trustworthy because he's consistent with payments, has a stable job, and a good income.
+
+Second: Electrician. Needs a van to transport tools and equipment. Employed for 3 years. Savings 600 DM. Reliable job, good references. Uses the car for work, so it's essential for his income.
+
+Third: IT technician. Needs a car for client visits. Employed for 2 years. Savings 800 DM. Stable job, timely payments. Maybe mentions that his job requires mobility.
+
+Fourth: Teacher. Needs a car for commuting and transporting students. Employed for 1.5 years. Savings 550 DM. Stable salary, responsible with finances.
+
+Fifth: Mechanic. Needs a van for work and personal use. Employed for 3.5 years. Savings 900 DM. Has a good work history, reliable.
+
+Each letter should explain the purpose, financial situation, and trustworthiness. Need to make sure each has specific numbers and roles. Avoid generic terms. Also, each should have a proper ending without any formatting. Let me check that each includes checking account status, duration, credit history, savings, employment duration, residence, property, age, housing, dependents, job, etc., in their own way.
+
+I need to ensure that each letter is distinct. Maybe vary the reasons for needing the car: commuting, work requirements, client visits, transporting students, business use. Also, mention the existing credit but managed well, showing responsibility. Each should highlight their stable employment, savings, and ability to repay. Make sure they mention the specific loan amount and their ability to handle installments.
+
+Let me start drafting each one step by step, making sure all the profile points are covered with specific instances. Also, keep the letters concise and not too long. Each should start with the applicant's name and address, then the bank's address, date, subject, and body. But since the user didn't ask for formatting, maybe just the body of the letter. Wait, the user says "Write 5 motivation letters..." so maybe include the standard structure but without markdown. However, the user says not to use any formatting, so maybe just the text without addresses. Let me check the example they provided. The example letters start with "Dear [Bank Name]" and then the body. So I can follow that structure.
+
+Each letter should have a subject line, then the body explaining purpose, financial situation, trustworthiness. Let me make sure each has a unique scenario but fits the profile. Let me also check that all the profile attributes are translated into specific details in each letter. For example, "scientific research assistant" instead of generic "skilled employee", "8 years" instead of ">=7 years" etc. Wait, the profile says "Present employment since:1 <= ... < 4 years", so each person's employment duration should be between 1-4 years, not 8. So maybe 2.5 years, 3 years, etc. Also, age is 36, so each applicant is 36. Each has one dependent, lives in own housing, has a car or other property, savings between 500-1000, etc.
+
+I need to make sure that each letter reflects these numbers. For example, "I have been working as a scientific research assistant at [Lab Name] for 2.5 years..." Also, mention the savings amount, like "I currently have 700 DM in my savings account." Also, mention the existing credit but not at this bank, and that they have managed it responsibly. Each should state that they have a critical credit history but are now seeking this loan for a specific purpose.
+
+Also, the installment rate is 2, which I think refers to the monthly payment, but maybe in the letter they can mention their ability to make the payments based on their income. Each should mention their stable income, maybe their salary, but since the user didn't specify exact numbers, perhaps just mention that their salary is sufficient to cover the installment.
+
+Let me start writing each letter with these points in mind.
+</think>
+
+Dear [Bank Name]  
+
+I am writing to apply for a loan of 2360 DM to purchase a reliable used car. As a scientific research assistant at the Max Planck Institute for 2.5 years, my role requires frequent travel to collaborate with colleagues at universities 50 km away and attend conferences. My current savings account holds 700 DM, and I have maintained a checking account with a consistent salary for over 18 months. Though I have an existing student loan from my studies, I have made all payments on time. I reside in my own apartment and own a motorcycle, which I use for short trips. At 36, I support my 6-year-old daughter, but my stable income of 2800 DM monthly ensures I can manage the 2 DM installment. I kindly request your trust in my responsibility and commitment.  
+
+Thank you for considering my application.  
+
+Sincerely,  
+Lars Müller  
+
+---  
+
+Dear [Bank Name]  
+
+I seek a 2360 DM loan to acquire a used van for my electrical contracting business. Employed as a certified electrician at Urban Electric since 2021, I require reliable transportation to deliver equipment to clients. My savings account currently has 600 DM, and I have held my checking account for 15 months with consistent salary deposits. While I have a small personal loan from another bank, it is nearing completion. I live in my own home and have resided there for two years. At 36, I am single with a dependent parent I support financially. My monthly income of 3200 DM allows me to allocate funds for timely repayments. I assure you of my dedication to fulfilling this obligation.  
+
+Thank you for your consideration.  
+
+Respectfully,  
+Jan Richter  
+
+---  
+
+Dear [Bank Name]  
+
+I am applying for a 2360 DM loan to purchase a used car essential for my role as an IT technician at TechNova. With 3 years of employment, I frequently travel to client sites across the region. My savings account contains 800 DM, and I have maintained a checking account for 14 months. I currently have a car loan from a different lender, which I have paid punctually for 12 months. I own a condominium and have lived there for two years. At 36, I am single with one child, and my monthly salary of 3000 DM provides a stable income. I am confident in my ability to meet the installment requirements and appreciate your trust in my financial responsibility.  
+
+Thank you for your time.  
+
+Sincerely,  
+Markus Becker  
+
+---  
+
+Dear [Bank Name]  
+
+I request a 2360 DM loan to buy a used car for commuting and transporting students as a part-time driving instructor. Employed at DriveSafe Academy for 1.5 years, my job requires flexibility to pick up trainees from nearby towns. My savings account has 550 DM, and I have held my checking account for 16 months with regular salary assignments. I have an existing credit card with another bank, which I manage responsibly. I reside in my own apartment and have lived there for two years. At 36, I am single and support my elderly mother. My monthly income of 2700 DM ensures I can handle the installment. I am committed to repaying this loan promptly.  
+
+Thank you for your support.  
+
+Kind regards,  
+Thomas Fischer  
+
+---  
+
+Dear [Bank Name]  
+
+I am applying for a 2360 DM loan to purchase a used van for my auto repair business. As a certified mechanic at AutoFix since 2020, I need reliable transportation to source parts and visit clients. My savings account currently holds 900 DM, and I have maintained a checking account for 13 months with consistent salary deposits. I have a small personal loan from another institution, which I repay monthly without issue. I own a car and live in my own house, having resided there for two years. At 36, I am single with one child, and my monthly income of 2900 DM allows me to budget for this loan. I assure you of my reliability and gratitude for your trust.  
+
+Thank you for your consideration.  
+
+Sincerely,  
+André Weber

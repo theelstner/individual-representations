@@ -1,0 +1,74 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific instances of the generic attributes. Let me start by breaking down the profile.
+
+First, the profile details: The person is a 29-year-old single male foreign worker, has a checking account for 45 months (which is 3 years and 9 months), no credit history or all paid back. The loan purpose is business, amount 11,816 DM. Savings under 100 DM. Employed for at least 7 years, currently has two credits at the bank, lives in rented housing, residence in current place for 4 years, has a car or other property, one dependent, no phone. 
+
+So each letter needs to have specific jobs instead of "skilled employee / official". Let me think of different jobs that fit. Maybe a scientific research assistant, electrician, IT technician, teacher, and a mechanic. Each with different business purposes. 
+
+First person: Let's say a scientific research assistant. He wants to start a lab supply business. He's been working at a university for 8 years. His dependent is his sister. He's lived in his residence for 4 years, has a car. He'll mention his stable income, no late payments, and how the loan will help his business. 
+
+Second person: Electrician. He's been self-employed for 7 years. His dependent is his mother. He wants to buy equipment for his contracting business. He has a van as property. Emphasize his steady income and timely payments on existing credits.
+
+Third person: IT technician. Worked at a company for 9 years. Dependent is his daughter. Wants to start a tech support service. Has a motorcycle. Highlight his technical skills and how the loan will expand his client base.
+
+Fourth person: Teacher. Worked at a school for 7 years. Dependent is his younger brother. Plans to open a tutoring center. Property is a car. Stress his stable job and community involvement.
+
+Fifth person: Auto mechanic. Owns a repair shop, been employed there for 8 years. Dependent is his cousin. Needs funds for new tools. Has a truck. Mention his experience and existing business relationships.
+
+Each letter should start with sender's info, date, bank address, subject. Then explain the purpose, financial situation, trustworthiness. Keep it concise, no formatting. Make sure each has unique specifics. Check for the required elements: existing checking account duration, credit history, savings, employment duration, residence, property, age, dependents, housing, etc.
+
+Need to ensure each letter is distinct in the business purpose and personal details. Also, since they are foreign workers, maybe mention their immigration status briefly, but maybe not necessary if it's already covered in the profile. Each should end with a proper closing. Avoid any markdown, just plain text. Let me draft each one step by step, making sure all profile attributes are covered with specific instances.
+</think>
+
+Dear [Bank Name],  
+
+I am writing to request a loan of 11,816 DM to establish a small laboratory supply business. As a scientific research assistant at the University of Berlin for the past 8 years, I have stable monthly earnings and a clear plan to meet installment payments of 2 DM. Though my savings account holds less than 100 DM due to recent equipment purchases for my job, I have consistently paid my existing two bank credits on time. I reside in my current apartment for 4 years, own a used car, and support my younger sister, who is a full-time student. My 45-month checking account history and clean credit record reflect my financial responsibility. I am confident this loan will help me capitalize on growing demand for lab supplies in our region.  
+
+Sincerely,  
+Markus Heinrich  
+[Address]  
+[Date]  
+
+---  
+
+Dear [Bank Name],  
+
+I seek a 11,816 DM loan to expand my electrical contracting business, which I’ve operated as an independent electrician for 3 years. With 7 years of employment at a construction firm prior to starting my own work, I have the skills to ensure timely project completions. My current residence in Munich for 4 years and my ownership of a van used for job-related deliveries demonstrate my stability. I have no late payments on my two existing bank credits and support my aging mother, who lives with me. While my savings are minimal due to recent tool replacements, my 45-month checking account and steady income from contracts prove my reliability. This loan will allow me to take on larger projects and grow my client base.  
+
+Respectfully,  
+Lars Müller  
+[Address]  
+[Date]  
+
+---  
+
+Dear [Bank Name],  
+
+I am applying for a 11,816 DM loan to launch a tech support service targeting small businesses. As an IT technician at a manufacturing company for 9 years, I have the expertise to deliver efficient solutions. My current savings are under 100 DM due to recent home repairs, but I have consistently managed my two bank credits without issues. I have lived in my rented apartment for 4 years and own a motorcycle, which I use for client visits. Supporting my 5-year-old daughter, I prioritize financial discipline, as evidenced by my 45-month checking account and clean credit history. This loan will cover software licenses and marketing, enabling me to offer specialized IT services locally.  
+
+Yours faithfully,  
+Jan Novak  
+[Address]  
+[Date]  
+
+---  
+
+Dear [Bank Name],  
+
+I request a 11,816 DM loan to open a tutoring center for high school students. As a certified teacher at a public school for 7 years, I have the credibility to attract students and parents. My savings account is currently below 100 DM due to investing in my professional development courses, but my stable income and timely payments on existing bank credits reflect my reliability. I reside in my current home for 4 years and own a used car, which I use to transport educational materials. Supporting my younger brother, who is pursuing a degree, I carefully budget my expenses. My 45-month checking account and employment history confirm my financial discipline. This loan will fund classroom materials and advertising to grow my tutoring service.  
+
+Sincerely,  
+Ahmad Khan  
+[Address]  
+[Date]  
+
+---  
+
+Dear [Bank Name],  
+
+I am seeking a 11,816 DM loan to purchase advanced diagnostic tools for my auto repair shop. As a mechanic at a local garage for 8 years, I have built strong relationships with clients and employers alike. My savings are currently under 100 DM due to recent vehicle maintenance costs, but I have maintained a clean credit history and paid my two existing bank loans in full. I have lived in my rented apartment for 4 years and own a delivery truck used for parts transportation. Supporting my cousin, who is studying nursing, I manage my finances responsibly, as shown by my 45-month checking account. This loan will improve my workshop’s efficiency and allow me to offer competitive services.  
+
+Respectfully,  
+Tariq Rahman  
+[Address]  
+[Date]

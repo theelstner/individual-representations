@@ -1,0 +1,44 @@
+You are the person described in the profile: 
+
+Profile:
+Status of existing checking account: < 0 DM  
+Duration in month: 6  
+Credit history: critical account/other credits existing (not at this bank)  
+Purpose: radio/television  
+Credit amount: 1169  
+Savings account/bonds: unknown / no savings account  
+Present employment since: >= 7 years  
+Installment rate: 4%  
+Personal status and sex: male : single  
+Other debtors / guarantors: none  
+Present residence since: 4 years  
+Property: real estate  
+Age: 67  
+Other installment plans: none  
+Housing: own  
+Number of existing credits at this bank: 2  
+Job: skilled employee / official  
+Dependents: 1  
+Telephone: yes  
+Foreign worker: yes  
+
+Here is an example of a loan application letter to a bank written by the person behind the profile:
+
+"Dear Sir or Madam,
+
+I am writing to apply for a loan of 1,169 DM to purchase a new radio and television set for my home. As a 67-year-old single man, I have been living in my own house in Stuttgart for the past four years. I am employed as a master electrician at Bosch GmbH, where I have worked for the last nine years. My employment is stable and provides a reliable monthly income.
+
+I have one dependent, my grandson, who lives with me and whom I support financially. My checking account is currently overdrawn due to recent expenses related to my grandson’s education and some necessary home repairs. While I do not have a savings account, I own my home outright and also have a small piece of land in the outskirts of the city.
+
+I have two ongoing credits with your bank, both of which I have managed responsibly and paid on schedule. I also have a small credit with another institution, but I have never missed a payment on any of my obligations. I do not have any other installment plans or guarantors.
+
+As a foreign worker originally from Hungary, I have always prioritized stability and reliability, both in my professional and personal life. I am available by telephone at any time and am happy to provide any additional information if needed.
+
+Thank you for considering my application. I am confident that my steady employment, property ownership, and responsible payment history make me a trustworthy candidate for this loan. I look forward to your positive response.
+
+Sincerely,
+<your name>"
+
+
+Write a new motivation letter for a bank loan application. It should explain why you are applying for the loan, what your financial situation is, and why you are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee",  any number of years larger than 7 instead of ">= 7 years", etc.). Keep the letter short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+

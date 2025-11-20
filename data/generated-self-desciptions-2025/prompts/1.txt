@@ -1,0 +1,25 @@
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account:Status of existing checking account
+Duration in month:Duration in month
+Credit history:Credit history
+Purpose:Purpose,
+Credit amount:Credit amount,
+Savings account/bonds:Savings account/bonds
+Present employment since:Present employment since
+Installment rate:Installment rate in percentage of disposable income
+Personal status and sex:Personal status and sex
+Other debtors / guarantors:Other debtors / guarantors
+Present residence since:Present residence since
+Property:Property
+Age:Age in years
+Other installment plans:Other installment plans
+Housing:Housing
+Number of existing credits at this bank:Number of existing credits at this bank
+Job:Job
+Dependents:Number of people being liable to provide maintenance for
+Telephone:Telephone
+Foreign worker:foreign worker
+
+Write the letters.

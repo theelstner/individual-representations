@@ -1,0 +1,103 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Letter 1
+
+Dear Sir or Madam,
+
+My name is Ivan Petrov, and I am writing to apply for a loan of 1,169 DM to purchase a new television set. I am a 67-year-old mechanical engineering technician, employed at Bayer AG in Leverkusen for the past 9 years. I have lived in my own apartment in Cologne for the last 4 years with my adult son, whom I support.
+
+Although my current checking account is slightly overdrawn, this is due to recent unexpected medical expenses. I have managed my finances responsibly over the years, and while I do have two small existing credits at your bank and another at a different institution, I have never missed a payment. My monthly income from my employment and a small pension is stable, and my installment rate for this loan would be manageable.
+
+As a property owner with a steady job and a long-term commitment to this community, I am confident in my ability to repay the loan. The new television is important for my family’s comfort and connection to our home country, as we are foreign nationals living in Germany.
+
+Thank you for considering my application. I look forward to your positive response.
+
+Sincerely,
+Ivan Petrov
+
+Letter 2
+
+Dear Loan Officer,
+
+My name is Ahmed Al-Hassan. I am a 67-year-old naturalized German citizen, originally from Morocco, and have worked as an administrative clerk at the Frankfurt City Hall for the past 8 years. I own my home in Offenbach, where I reside with my daughter.
+
+I am requesting a loan of 1,169 DM to purchase a radio and television set. My finances have been strained recently due to supporting my daughter through university, resulting in a minor negative balance in my checking account. Despite having a critical credit history, I have consistently met all my repayment obligations, including two active credits at your bank.
+
+I have no other debts or guarantors, and my regular salary ensures I can comfortably meet the 4% installment rate. My record as a long-standing employee and homeowner demonstrates my stability and trustworthiness.
+
+I would appreciate your support in granting this loan, which will improve our quality of life at home.
+
+Kind regards,
+Ahmed Al-Hassan
+
+Letter 3
+
+Dear Bank Manager,
+
+I am Marek Nowak, a 67-year-old senior technician at Siemens in Munich, where I have worked for 10 years. I have lived in my own house in Munich for the past 4 years, supporting my grandson.
+
+I am seeking a loan of 1,169 DM to buy a new television, as our old one recently broke and is beyond repair. My checking account is currently overdrawn due to recent home repairs, but I have always managed to bring it back to balance quickly. While I have some existing credit obligations, I have never defaulted on a payment.
+
+My employment is secure, and I have no other installment plans or debts. As a property owner and a responsible employee, I am confident in my ability to repay this loan on time.
+
+Thank you for your consideration.
+
+Best regards,
+Marek Nowak
+
+Letter 4
+
+To Whom It May Concern,
+
+My name is Jean-Paul Dubois, a 67-year-old French national working as a customs official in Stuttgart for the past 7 years. I own my home and have resided there for 4 years with my adult son, whom I support.
+
+I am applying for a loan of 1,169 DM to purchase a modern television and radio. My current negative balance is temporary, caused by recent family-related expenses. Although I have a critical credit history and two existing credits at your bank, I have always fulfilled my payment obligations punctually.
+
+My stable employment, property ownership, and responsible financial behavior make me a trustworthy candidate for this loan. I am confident in my ability to meet the installment payments.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Jean-Paul Dubois
+
+Letter 5
+
+Dear Lending Department,
+
+I am Sándor Kovács, a 67-year-old Hungarian national who has worked as a technical supervisor at Bosch GmbH in Stuttgart for the last 8 years. I own my own flat, where I live with my son, and have maintained my residence here for 4 years.
+
+I am requesting a loan of 1,169 DM to buy a new radio and television. My current checking account balance is negative due to recent unexpected dental bills. I do have two credits at your bank and one at another, but I have always paid my installments on time.
+
+As a long-term employee, homeowner, and responsible father, I am confident that I can meet the 4% installment rate. I have no other debts or installment plans and am committed to fulfilling all my financial obligations.
+
+Thank you for considering my application.
+
+Yours sincerely,
+Sándor Kovács

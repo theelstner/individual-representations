@@ -1,0 +1,91 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+
+Assistant
+Dear Loan Officer,
+
+I am writing to apply for a loan of 1169 DM to purchase a new television. I have been employed as a senior logistics manager at Global Freight Solutions for the past 8 years, which has provided me with a stable income. My financial situation has been challenging recently due to unexpected medical expenses for my dependent son, which temporarily put my checking account in the negative.
+
+Despite these challenges, I am confident in my ability to manage the loan responsibly. I own real estate and have been residing in my current home for 4 years, which reflects my stability and commitment. I have two existing credits with your bank, both of which are in good standing.
+
+I assure you of my dedication to meeting the installment rate of 4% and maintaining a positive relationship with your bank. Thank you for considering my application.
+
+Sincerely,
+[Your Name]
+
+Letter 2:
+
+Dear Sir/Madam,
+
+I am seeking a loan of 1169 DM to buy a new radio for my home. I have been a foreign language interpreter with the International Communication Center for the past 9 years, and my job provides a reliable income. While my checking account is currently below zero due to unforeseen home repair costs, I am actively working to restore my financial balance.
+
+I have no other installment plans and own my residence, which underscores my financial responsibility. Although I have other credits, they are managed outside of your bank and are being paid regularly.
+
+I am confident in my ability to repay the loan promptly and appreciate your consideration of my application.
+
+Best regards,
+[Your Name]
+
+Letter 3:
+
+To Whom It May Concern,
+
+I am applying for a loan of 1169 DM to purchase a television. For the past 10 years, I have been employed as a project coordinator with EcoBuild Solutions, ensuring a consistent income. My current financial setback, resulting in a negative checking account, is due to supporting my elderly parent overseas.
+
+I have owned my home for 4 years and have no other installment obligations. I am committed to maintaining my good standing with your bank, where I have two existing credits.
+
+I am a reliable candidate for this loan, and I look forward to your favorable response.
+
+Warm regards,
+[Your Name]
+
+Letter 4:
+
+Dear Bank Manager,
+
+I am writing to request a loan of 1169 DM for the purpose of purchasing a radio. I have been a quality control supervisor at Bright Tech Industries for the last 7 years. My financial difficulties, leading to a negative checking account balance, arose from unexpected legal fees.
+
+Owning my home and having no other installment plans demonstrate my financial stability. I have two credits with your bank, both of which are well-maintained.
+
+I am committed to repaying the loan with the agreed installment rate and am grateful for your consideration of my application.
+
+Thank you,
+[Your Name]
+
+Letter 5:
+
+Dear Loan Department,
+
+I am seeking a loan of 1169 DM to buy a television. I have worked as a senior administrative officer at Citywide Services for 8 years, providing me with a dependable income. My checking account is currently below zero due to a recent family emergency that required financial support.
+
+I own my residence, and my commitment to financial responsibility is evident in the management of two existing credits with your bank. I assure you of my ability to meet the 4% installment rate without difficulty.
+
+Thank you for considering my application. I look forward to your positive response.
+
+Sincerely,
+[Your Name]

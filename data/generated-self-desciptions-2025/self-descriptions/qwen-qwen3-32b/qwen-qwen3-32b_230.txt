@@ -1,0 +1,102 @@
+<think>
+Okay, let's tackle this query. The user wants five motivation letters for a bank loan application, each from a different person based on a specific profile. First, I need to parse the profile details carefully.
+
+The profile includes attributes like no checking account, 9 months duration, credit history of existing credits paid back, purpose for radio/television, credit amount 1478 DM, savings less than 100 DM, employment since 4-7 years, installment rate 4, single male, no debtors, residence since 2 years, property as car or other, age 22, no other installment plans, housing in own, dependents 1, no telephone, foreign worker yes, job as skilled employee or official.
+
+Each letter needs to be unique, with specific instances of the generic attributes. For example, instead of "skilled employee," use "scientific research assistant" or similar. Also, the letters should explain the loan purpose, financial situation, and trustworthiness.
+
+First, I'll generate five different job roles that fit "skilled employee / official." Let's think: maybe a mechanic, nurse, electrician, teacher, and IT technician. Each person's job will influence their letter's context.
+
+Next, the purpose is radio/television. I need to come up with specific reasons. Maybe for a small business (like a radio repair shop), personal use, educational purposes, or professional development. Each person's reason should vary.
+
+Financial situation: They have no checking account, savings under 100 DM, existing credit paid back, employed 4-7 years, foreign worker. Each letter should mention their stable job, timely payments, and how the loan will help them.
+
+Trustworthiness: Highlight their responsible history, stable residence, employment, and how the loan will improve their situation. Since they're foreign workers, maybe mention their commitment to the country or community.
+
+Now, structure each letter with a proper beginning, middle, and end. Start with their personal info, state the purpose, explain their financial situation, and conclude with their commitment to repayment.
+
+Check for specific numbers: age 22, 9 months duration, 2 years residence, 1 dependent. Each letter should have these numbers mentioned appropriately.
+
+Avoid formatting, keep it concise. Make sure each letter ends properly without being cut off. Use polite language, formal tone suitable for a bank.
+
+Let me draft the first one. Let's take a mechanic. His purpose could be buying tools for a repair business. He's been working at a garage, has a car as property, stable job for 5 years. He mentions his savings are low but has paid back previous credit. Ends with gratitude.
+
+Second, a nurse. Maybe the loan is for a television to provide educational content for patients. Works at a clinic, has a dependent, mentions living in the same residence for 2 years. Emphasizes timely payments.
+
+Third, an electrician. Purpose could be upgrading equipment for efficiency. Has a credit history, stable job, and a car. Mentions supporting his family with the improved business.
+
+Fourth, a teacher. Maybe needs a radio for language learning. Works at a school, has been employed for 6 years. Highlights educational benefits and repayment ability.
+
+Fifth, IT technician. Loan for a radio/TV to offer tech support services. Has been working for 4 years, owns a car. Emphasizes growth and repayment.
+
+Check each letter for unique job, purpose, and specific details. Ensure all profile attributes are addressed without repetition. Make sure they are concise and end properly. Avoid any markdown, just plain text with line breaks. Let me review each for the required elements and make sure they meet the user's specifications.
+</think>
+
+Dear Bank Manager  
+
+My name is Ahmed Mohamed and I am a 22-year-old foreign worker employed as a mechanical workshop assistant at a local automotive repair shop. I have been working there for 5 years and earn a stable monthly income of 2200 DM. I am applying for a loan of 1478 DM to purchase a television for my household as I believe it will help me improve my German language skills through educational programming.  
+
+Although I do not currently have a checking account I have maintained a flawless credit history by repaying my previous small loan for tools over 9 months. I reside in my own apartment in a rented room for 2 years and support my younger sister who lives with me. While my savings are minimal under 100 DM I am committed to making timely payments given my steady employment and responsibility as a single dependent caregiver.  
+
+As a hardworking foreign worker I value reliability and plan to use this television to enhance my integration into the community. I kindly request your approval as I am fully prepared to meet my obligations.  
+
+Sincerely  
+Ahmed Mohamed  
+
+---  
+
+Dear Sir or Madam  
+
+I am writing to request a 1478 DM loan to purchase a radio for my small tailoring business. My name is Luis Fernandez and I am a 22-year-old foreign worker employed as a certified seamstress at a garment factory. I have been in this role for 6 years and earn 2050 DM monthly. The radio will allow me to stay updated on industry trends and improve my technical skills through instructional broadcasts.  
+
+I currently do not hold a checking account but have consistently repaid my previous credit for sewing machine maintenance without issue. I live in my own housing and own a used car valued at 3000 DM. Though my savings are below 100 DM my stable employment and dedication to my craft make me a reliable candidate.  
+
+I have resided in this city for 2 years and take pride in my punctuality and work ethic. This loan will directly contribute to my professional growth and ability to support my elderly mother who lives with me.  
+
+Thank you for considering my application.  
+
+Respectfully  
+Luis Fernandez  
+
+---  
+
+Dear Bank Official  
+
+My name is Rajesh Kumar and I am a 22-year-old foreign worker employed as an electrical technician at a construction firm. I have held this position for 4 years and earn 2100 DM per month. I am applying for a 1478 DM loan to purchase a television to share with my two roommates as we aim to improve our technical knowledge through engineering broadcasts.  
+
+While I do not currently maintain a checking account I have a clean credit history from my prior loan repayment for safety equipment. I own a motorcycle worth 1500 DM and have lived at my current residence for 2 years. My savings are limited to 80 DM but my consistent income ensures I can manage this installment.  
+
+As a skilled worker I understand the importance of continuous learning. This television will aid our professional development and I assure you of my commitment to repaying this loan responsibly.  
+
+Gratefully  
+Rajesh Kumar  
+
+---  
+
+Dear Banking Team  
+
+I am a 22-year-old foreign worker named Yuki Tanaka employed as a full-time nursing assistant at a community clinic. With 6 years of experience earning 1950 DM monthly I seek a 1478 DM loan to buy a radio for my home. This device will help me follow medical updates and better assist my elderly patients.  
+
+I have no checking account but have always repaid my previous credit for professional certification on time. I own a car valued at 4000 DM and live in my own apartment. My savings are currently 50 DM but my stable job and single dependent my cousin who resides with me ensure financial responsibility.  
+
+I have lived in my current home for 2 years and take pride in my punctual work ethic. This loan aligns with my dedication to healthcare excellence.  
+
+Thank you for your consideration.  
+
+Warm regards  
+Yuki Tanaka  
+
+---  
+
+Dear Loan Committee  
+
+My name is Carlos Silva and I am a 22-year-old foreign worker employed as a civil engineering draftsman for 5 years at a local firm earning 2300 DM monthly. I request a 1478 DM loan to purchase a television to follow international construction standards through educational channels.  
+
+I have no checking account but have fully repaid my previous credit for design software. I reside in my own housing for 2 years and own a used car. My savings amount to 30 DM but my consistent income allows me to manage expenses responsibly.  
+
+As a professional committed to growth this television will enhance my expertise. I assure you of my reliability as I have no delinquencies and support my younger brother financially.  
+
+I appreciate your time and look forward to your positive response.  
+
+Sincerely  
+Carlos Silva

@@ -1,0 +1,91 @@
+User
+Write 5 motivation letters for a bank loan application. Each letter should be written from the perspective of a different person that could be described in the following profile. The letters should explain why the person is applying for the loan, what their financial situation is, and why they are a trustworthy candidate. Invent specific instances of all generic attributes from the profile (e.g. "scientific research assistant" instead of "skilled employee", "8 years" instead of ">= 7 years", etc.). Keep the letters short and concise. Do not cut off the letter - be sure to write a proper ending! Do not use any formatting on the letter.
+
+Profile:
+Status of existing checking account: < 0 DM
+Duration in month: 6
+Credit history: critical account/other credits existing (not at this bank)
+Purpose: radio/television
+Credit amount: 1169
+Savings account/bonds: unknown / no savings account
+Present employment since: >= 7 years
+Installment rate: 4%
+Personal status and sex: male : single
+Other debtors / guarantors: none
+Present residence since: 4 years
+Property: real estate
+Age: 67
+Other installment plans: none
+Housing: own
+Number of existing credits at this bank: 2
+Job: skilled employee / official
+Dependents: 1
+Telephone: yes
+Foreign worker: yes
+
+Write the letters.
+
+Assistant
+Letter 1:
+Dear Sir or Madam,
+
+My name is Aleksandr Petrov, and I am writing to apply for a loan of 1169 DM to purchase a new television and radio set. I have been employed as a mechanical technician at Siemens AG for the past 9 years, and I have lived in my own home in Munich for 4 years. Although my current checking account is temporarily overdrawn due to recent medical expenses for my dependent son, I have always prioritized my financial obligations. My real estate property provides security, and I have successfully managed two previous credits with your bank without issue.
+
+I have no other installment plans and no guarantors. My current debts are well-structured and being paid on time, and I am confident in my ability to meet the 4% installment rate. As a single father and foreign worker, I am committed to stability for my family. I kindly ask you to consider my application favorably.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Aleksandr Petrov
+
+Letter 2:
+Dear Loan Officer,
+
+My name is Youssef El-Masri, and I respectfully submit my application for a loan of 1169 DM to purchase a new radio and television set. I have worked as a customs official at the Hamburg port authority for 8 years and currently reside in my own home, which I acquired 4 years ago.
+
+My financial situation is currently strained, with my checking account below zero, due in part to supporting my adult daughter through her university studies. I do not have a savings account, but my property serves as collateral. I have maintained a responsible payment record with my two existing loans at your bank, and I have no other installment plans or guarantors.
+
+Despite my foreign worker status, I have demonstrated reliability and a strong work ethic. I am confident that I will be able to meet the required installment rate and repay the loan within the agreed period.
+
+Thank you for considering my application.
+
+Best regards,
+Youssef El-Masri
+
+Letter 3:
+Dear Bank Manager,
+
+I am Jan Novak, a 67-year-old single man residing in Frankfurt, where I have owned my house for the past four years. I am employed as a senior electrician at Deutsche Bahn, a position I have held for 10 years. I am seeking a loan of 1169 DM to purchase a new television and radio, as my current devices have stopped working.
+
+While my checking account is currently overdrawn, this is a temporary situation due to recent repairs on my property. My credit history includes some other credits, but none with your bank, and my record with your institution is positive. I have no savings account, but my real estate is a significant asset. I have no other installment plans and am prepared to meet the 4% repayment rate.
+
+As a foreign worker with a dependent grandson, I take my financial responsibilities seriously and have always paid my dues on time. I trust you will consider my application favorably.
+
+Sincerely,
+Jan Novak
+
+Letter 4:
+Dear Sir or Madam,
+
+My name is Emilio García, and I am applying for a loan of 1169 DM to purchase a new radio and television for my home. I have been a postal service supervisor for 8 years and have lived in my own apartment in Stuttgart for the last 4 years.
+
+Currently, my checking account is overdrawn, mainly due to unexpected healthcare expenses for my dependent brother. I do not have a savings account, but I do own real estate that provides financial security. I have two active credits with your bank, both of which I have managed responsibly. I have no additional installment plans or guarantors.
+
+As a single, foreign national, I am committed to fulfilling my obligations. My employment is stable, and I am confident in my ability to repay the loan at the proposed installment rate. Thank you for your consideration.
+
+Kind regards,
+Emilio García
+
+Letter 5:
+Dear Loan Department,
+
+I am Piotr Zielinski, a Polish-born engineer living in Berlin, and I am applying for a 1169 DM loan to purchase a new radio and television. I have worked as a civil engineering inspector for the city for 8 years, and I have owned my home for 4 years.
+
+My checking account is currently negative due to supporting my dependent nephew’s education. I do not hold a savings account, but my real estate property is a strong asset. I have two existing credits at your bank and have maintained timely payments on both. I have no other installment plans and no guarantors.
+
+Despite my foreign status, I have demonstrated financial responsibility and commitment throughout my career. I am confident in my ability to meet the 4% installment rate. I would greatly appreciate your favorable consideration of my application.
+
+Thank you for your time.
+
+Sincerely,
+Piotr Zielinski

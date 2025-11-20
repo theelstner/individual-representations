@@ -1,0 +1,98 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific instances of the generic attributes. Let me start by breaking down the profile to make sure I cover all the details.
+
+First, the profile has specific attributes: checking account balance between 0 and 200 DM, duration of 24 months, good credit history, purpose is a used car, credit amount 12579, savings under 100 DM, employment for at least 7 years, installment rate 4, female, divorced/separated/married, no other debtors, residence since 2 years, no property, age 44, no other installment plans, housing for free, one existing credit at the bank, job in management/self-employed/highly qualified, one dependent, has a telephone, and is a registered foreign worker.
+
+Each letter needs to be from a different person, so I need to vary the job roles, maybe their personal situations, and reasons for the loan. Let me think of five different jobs from the profile's job category. The job category includes management, self-employed, highly qualified employee, or officer. Let me pick five different roles:
+
+1. Management: Maybe a department head.
+2. Self-employed: Perhaps a freelance graphic designer.
+3. Highly qualified employee: A scientific research assistant.
+4. Officer: Maybe a public sector officer, like a municipal administrator.
+5. Another management role but different: Maybe a project manager in a different industry.
+
+Now, each person needs a unique reason for the car loan. Since the purpose is a used car, maybe they need it for commuting, work requirements, or to support their business. Let me assign different reasons.
+
+For each letter, they need to explain their financial situation, why they're trustworthy, and the loan purpose. Also, include specific numbers from the profile: 8 years employed, age 44, 2 years residence, etc. Let me check the profile again to make sure I don't miss any details.
+
+Also, the letters should be concise, not too long, and end properly. Avoid formatting, just plain text. Let me start drafting each one step by step, making sure each has unique details but fits the profile.
+
+First person: Department Head. She's been in her job for 8 years, needs a car for daily commute. Mention her stable income, existing credit paid back, and the need for reliable transport. She has a dependent, maybe a child. She has a telephone, which shows stability.
+
+Second: Freelance graphic designer. Self-employed for 7 years. Needs a car to visit clients. Emphasize steady income and timely payments. Maybe mention that her business is growing, so the car will help expand her client base.
+
+Third: Scientific research assistant. Employed for 9 years, needs a car to commute to a lab that's far. She's a woman in a male-dominated field, showing dedication. She has a dependent, perhaps a parent she's supporting.
+
+Fourth: Municipal administrator (officer). 10 years in her role, needs a car for work-related travel. She's responsible for public services, so reliable transport is essential. She might mention her long-term residence and community ties.
+
+Fifth: Project manager in construction. 7 years in the job, needs a vehicle for site visits. Highlight her experience and how the car will improve work efficiency. She's separated, has one child, and is a registered foreign worker, showing her commitment to the country.
+
+Now, check each letter for the required elements: purpose, financial situation (checking account, savings, employment duration), credit history, trustworthiness (timely payments, no other debtors), and personal details like age, dependents, residence. Make sure each letter has specific numbers and roles, not generic terms. Also, ensure they end properly with a closing.
+
+Let me write each letter, keeping them concise, using the specific instances, and making sure they don't cut off. Avoid any markdown, just plain text with line breaks. Each letter should start with the sender's info, date, bank address, salutation, body, closing, and signature. But since the user didn't specify including addresses, maybe just the body. Wait, the example in the user's mind might be just the body. Let me check the user's instruction: "Write 5 motivation letters..." without formatting. So maybe just the body of the letter, not the full envelope. Let me confirm. The user says "do not cut off the letter - be sure to write a proper ending!" So each letter should have a proper structure, maybe starting with a salutation, body paragraphs, closing.
+
+But the user didn't specify including addresses, so perhaps just the body. Let me proceed with each letter having a greeting, explanation, closing. Let me start writing each one now.
+</think>
+
+Dear [Bank Name],  
+
+My name is Anna Müller, and I am a department head at a medium-sized manufacturing company, where I have worked for the past 8 years. I am writing to request a loan of 12,579 DM to purchase a reliable used car. My current vehicle is over 15 years old and requires frequent repairs, which strain my limited savings of 80 DM. As a divorced mother of one, I rely on this car to commute 45 minutes daily to work and transport my 12-year-old daughter to school.  
+
+I have maintained a checking account for 24 months with a stable balance between 50–150 DM, reflecting my disciplined budgeting. My employer has confirmed my 8-year tenure, and I consistently pay my existing bank credit (a home improvement loan) on time. With a monthly installment rate of 4 DM for this new loan, I am confident in my ability to repay. I own no property but have resided at my current address for 2 years and am a registered foreign worker with a permanent residence permit. Your support would greatly reduce my transportation costs and ensure my family’s mobility.  
+
+Thank you for considering my application. I am happy to provide further documentation.  
+
+Sincerely,  
+Anna Müller  
+
+---  
+
+Dear [Bank Name],  
+
+I am Lena Hoffmann, a freelance graphic designer with 7 years of self-employment. I apply for a 12,579 DM loan to purchase a used car, which is essential for visiting clients across the region. My checking account has averaged 100 DM over 24 months, and while my savings are minimal (60 DM), my steady income from design projects allows me to meet monthly expenses.  
+
+I have a history of repaying all past credits, including a small business loan from this bank, which I settled over 3 years. My current housing is free, provided by a family member, and I have no dependents besides my 14-year-old son, whom I support alone. With a 4 DM installment rate, this loan is manageable alongside my existing credit here. My 7-year employment history and registered foreign worker status confirm my stability.  
+
+This car will improve my ability to secure contracts, directly benefiting my business. I assure timely repayments and appreciate your trust.  
+
+Best regards,  
+Lena Hoffmann  
+
+---  
+
+Dear [Bank Name],  
+
+As a scientific research assistant at the University of Leipzig, I have worked for 9 years and now seek a 12,579 DM loan for a used car. My lab is 50 km from my residence, and public transport is infrequent, making a vehicle critical for my 44-minute daily commute. My checking account has remained below 200 DM for 24 months, and my savings amount to 40 DM, as I prioritize allocating funds to my 10-year-old nephew, whom I financially support.  
+
+I have no property but have lived at my current address for 2 years. My employer confirms my 9-year tenure, and I have consistently repaid my sole existing credit—a student loan—with no delays. As a married woman in a male-dominated field, I value stability and responsibility. A 4 DM installment fits my budget, and my registered foreign worker status reflects my long-term commitment to this country.  
+
+This loan will ensure punctuality at work and reduce stress for my family. Thank you for your consideration.  
+
+Respectfully,  
+Dr. Sabine Fischer  
+
+---  
+
+Dear [Bank Name],  
+
+I am Marta Klein, a municipal administrator in charge of public services, employed for 10 years. I request a 12,579 DM loan to buy a used car, as my current job requires frequent travel to inspect community projects. My checking account balance averages 150 DM, and I have 30 DM in savings. I am married with one dependent—my elderly mother-in-law, whom I care for daily.  
+
+I have a clean credit history, having repaid my only existing credit (a furniture loan) in full. My 10-year employment and 2-year residency in my current home demonstrate stability. Though I own no property, my housing is free due to a government subsidy. With a manageable 4 DM installment, this loan aligns with my income. As a registered foreign worker, I value reliability and aim to contribute further to public services with improved mobility.  
+
+Your support would greatly enhance my professional and personal responsibilities. I look forward to your positive response.  
+
+Yours faithfully,  
+Marta Klein  
+
+---  
+
+Dear [Bank Name],  
+
+My name is Hana Ito, a construction project manager with 7 years of experience. I apply for a 12,579 DM loan to replace my aging car, which is vital for visiting job sites across the city. My checking account has fluctuated between 0–200 DM over 24 months, and my savings are 20 DM. I am separated, with sole custody of my 9-year-old daughter, and I ensure her needs are met through careful budgeting.  
+
+I have no other debts or guarantors and have paid back my sole existing credit—a tool purchase loan—on time. My employer confirms my 7-year tenure, and my registered foreign worker status reflects my commitment to this community. A 4 DM installment is feasible, given my stable income. This car will improve my efficiency at work and provide safer transportation for my daughter.  
+
+Thank you for considering my trustworthy record and urgent need. I am prepared to discuss this further.  
+
+Sincerely,  
+Hana Ito

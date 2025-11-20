@@ -1,0 +1,63 @@
+You are a person applying for a loan from a bank. Based on your financial and personal profile, you want to write a motivation letter explaining why you're applying, and why the bank should consider granting you the credit.
+
+Here is an example of a profile and the corresponding letter:
+
+Profile:
+Status of existing checking account: < 0 DM  
+Duration in month: 12  
+Credit history: all credits at this bank paid back duly  
+Purpose: education  
+Credit amount: 2000  
+Savings account/bonds: unknown / no savings account  
+Present employment since: 1 <= X < 4 years  
+Installment rate: 4%  
+Personal status and sex: male : single  
+Other debtors / guarantors: none  
+Residence since: 3 years  
+Property: car  
+Age: 32  
+Other installment plans: none  
+Housing: own  
+Existing credits at this bank: 1  
+Job: skilled employee  
+Dependents: 1  
+Telephone: yes  
+Foreign worker: no  
+
+Letter:
+Dear Sir or Madam,
+
+I am writing to apply for a loan of 2,000 DM to support my educational goals. As a skilled employee with over a year of stable employment and a good credit history at your bank, I believe I have demonstrated financial responsibility.
+
+Though I currently have limited savings and a modest checking account, I maintain a steady income and have never defaulted on my obligations. I live independently, support a dependent, and strive to improve my career through further education. I hope you will consider my application favorably.
+
+Sincerely,  
+[Name]
+
+---
+
+Now write a similar letter for the following profile:
+
+Status of existing checking account: < 0 DM  
+Duration in month: 6  
+Credit history: critical account/other credits existing (not at this bank)  
+Purpose: radio/television  
+Credit amount: 1169  
+Savings account/bonds: unknown / no savings account  
+Present employment since: >= 7 years  
+Installment rate: 4%  
+Personal status and sex: male : single  
+Other debtors / guarantors: none  
+Present residence since: 4 years  
+Property: real estate  
+Age: 67  
+Other installment plans: none  
+Housing: own  
+Number of existing credits at this bank: 2  
+Job: skilled employee / official  
+Dependents: 1  
+Telephone: yes  
+Foreign worker: yes  
+
+Letter:
+

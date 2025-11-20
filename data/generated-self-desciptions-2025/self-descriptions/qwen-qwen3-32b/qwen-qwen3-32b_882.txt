@@ -1,0 +1,94 @@
+<think>
+Okay, let's tackle this query. The user wants me to write five motivation letters for a bank loan application. Each letter should be from a different person based on the given profile. The profile has specific details that need to be incorporated with concrete examples.
+
+First, I need to parse the profile carefully. The key points are: no checking account, 24 months duration, good credit history, purpose is a used car, amount 7814, savings less than 100 DM, employment duration 4-7 years, installment rate 3, single male, no debtors, residence since 3 months, property is car or other, age 38, no other installment plans, housing is own, one existing credit at the bank, job in management/self-employed/highly qualified, one dependent, has a phone, foreign worker registered.
+
+Each letter needs to be unique. I should vary the job roles as per the profile's job category. Let me think of different jobs: maybe a project manager, a self-employed consultant, a research scientist, a senior IT specialist, and a small business owner. Each of these fits into the job category mentioned.
+
+For each person, I need to explain why they need the loan (used car), their financial situation (current employment, existing credit paid back, savings), and why they're trustworthy. Also, include specific instances like "scientific research assistant" instead of generic terms. Let me check the example given: "scientific research assistant" instead of "skilled employee". So I need to replace all generic attributes with specific ones.
+
+Each letter should be concise, not too long. Make sure to mention the exact numbers: 7814 DM, 3 years employment, 3 months residence, etc. Also, mention the existing credit paid back duly. Each person's situation should be slightly different but still fit the profile. For example, different reasons for needing the car: work-related travel, business purposes, fieldwork, client meetings, etc.
+
+I need to ensure that each letter starts with the applicant's name, address, date, and proper salutation. The body should have the purpose, financial situation, trustworthiness. End with a polite closing. No formatting, just plain text. Also, avoid cutting off the letters, so each should have a proper ending.
+
+Let me start drafting each one step by step. First, a project manager. He works for a construction company, needs a car for client visits. Then a self-employed IT consultant needing a car for client sites. A research scientist needing a car for lab and fieldwork. A senior retail manager needing a car for store visits. An entrepreneur running a catering business needing a van. Each has different specifics but fits the profile.
+
+Check for each letter: age 38, single with one dependent, living in own housing, 3 months residence, employment between 4-7 years, existing credit at the bank, savings under 100 DM, no checking account. Make sure each letter includes these elements in a natural way. Also, mention the installment rate of 3, which is probably 3% or 300 DM, but need to clarify. Since the amount is 7814, the installment rate might be 3% of that, which is around 234 DM. Maybe just state the rate as 3% as per the data.
+
+Also, telephone "yes" so each applicant has a phone, which shows stability. Foreign worker registered, so maybe mention that they are registered under their name. Each letter should end with thanks and a sign-off.
+
+Let me write each letter one by one, ensuring they are distinct and include all necessary details without being repetitive. Check for any missing profile attributes in each letter. Make sure each has a unique profession and specific reasons for the loan. Avoid any markdown, just plain text with line breaks. Keep them short and concise, around 150-200 words each.
+</think>
+
+**Motivation Letter 1**  
+Dear Sir/Madam,  
+
+My name is Lars Müller, 38 years old, currently working as a project manager in a construction company. I have been employed in this role for 5 years and earn a stable monthly income of 4,200 DM. I am writing to request a loan of 7,814 DM to purchase a used car. My current vehicle is outdated and unreliable, which hinders my ability to travel to client sites and manage projects efficiently.  
+
+I reside in my own home and have lived at my current address for 3 months. Though I do not have a checking account, I have consistently paid back my existing bank credit (a 2019 loan for office equipment) without delay. My savings amount to 80 DM, which I will contribute toward the car purchase. I am single, with one dependent (my mother, whom I financially support). As a responsible borrower, I have no other debts and maintain a telephone line in my name.  
+
+The loan will improve my professional mobility and productivity. I assure timely repayments given my steady income and disciplined financial habits. I request your consideration and am happy to provide additional documentation.  
+
+Thank you for your time.  
+Sincerely,  
+Lars Müller  
+
+---
+
+**Motivation Letter 2**  
+Dear Sir/Madam,  
+
+I am Thomas Becker, 38, a self-employed IT consultant operating my business for 6 years. I seek a 7,814 DM loan to acquire a used car, essential for visiting clients across the region. My annual revenue averages 55,000 DM, with profits consistently covering personal and business expenses.  
+
+I have no checking account but have maintained a positive credit history, repaying my 2021 bank loan for software licenses fully. I own a small property and live in my current residence for 3 months. My savings total 50 DM, which I will use as a down payment. I am single, with one dependent (my sister, who relies on me after her recent job loss).  
+
+My business’s cash flow ensures I can manage the 3% installment rate. I value reliability and view this loan as an investment in my service quality. I pledge to honor repayments, as my professional reputation depends on it.  
+
+Thank you for your trust.  
+Respectfully,  
+Thomas Becker  
+
+---
+
+**Motivation Letter 3**  
+Dear Sir/Madam,  
+
+As a scientific research assistant at the Dresden Environmental Institute for 4 years, I need a reliable car to conduct fieldwork. My monthly salary is 3,900 DM, and I request a 7,814 DM loan for a used vehicle.  
+
+I have repaid my previous bank credit (for lab equipment) in full and have no other debts. I own a home and have lived at my current address since March 2023. Though my savings are 90 DM, I am committed to this purchase. I am single, supporting one dependent (my father, who requires medical care).  
+
+My stable employment and disciplined budgeting ensure timely repayments. I am a registered foreign worker with a telephone in my name and take pride in my financial responsibility. This car will directly enhance my research contributions.  
+
+I appreciate your support and am prepared to provide further details.  
+Kind regards,  
+Jan Novak  
+
+---
+
+**Motivation Letter 4**  
+Dear Sir/Madam,  
+
+I am Dennis Roth, 38, a senior retail manager at a supermarket chain, employed for 6 years. I require a 7,814 DM loan for a used car to commute between our 3 regional stores. My monthly income is 4,100 DM, with no existing debts beyond my paid-off bank loan for a 2020 POS system.  
+
+I own my residence and have lived there for 3 months. I lack a checking account but manage finances through cash and direct deposits. My savings are 30 DM, which I will allocate toward the car. I am single, caring for my 8-year-old son.  
+
+My job’s stability and 3% installment capacity make me a reliable candidate. I have always prioritized financial obligations, reflected in my flawless credit history. This loan will improve my operational efficiency and career performance.  
+
+Thank you for considering my application.  
+Sincerely,  
+Dennis Roth  
+
+---
+
+**Motivation Letter 5**  
+Dear Sir/Madam,  
+
+My name is Marco Silva, a restaurant owner running a Portuguese cuisine business for 5 years. I seek a 7,814 DM loan for a used delivery van to streamline ingredient transport. My monthly revenue is 8,500 DM, with profits covering personal expenses.  
+
+I have repaid my 2022 bank loan for kitchen upgrades and have no other debts. I own my home and reside at my current address for 3 months. My savings amount to 20 DM, which I will use as a deposit. I am single, supporting my elderly mother.  
+
+As a registered foreign worker with a phone line in my name, I value trustworthiness. My business’s cash flow ensures I can meet the installment rate. This van will reduce costs and expand my customer reach. I guarantee punctual repayments.  
+
+Thank you for your attention.  
+Best regards,  
+Marco Silva

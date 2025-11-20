@@ -1,0 +1,116 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific instances of the generic attributes. Let me start by understanding the profile details.
+
+The profile mentions a single male, 23 years old, with a checking account between 0-200 DM, has had it for 48 months. Credit history shows existing credits paid back duly. The purpose is business, credit amount 15672 DM. Savings account less than 100 DM. Employment since 1-4 years. Single, no other debtors. Residence since 2 years. Property: car or other. Housing: own. One existing credit at the bank. Job is skilled employee or official. Dependents: 1. Has a telephone. Foreign worker registered under their name.
+
+First, I need to create five different personas. Each should have specific roles, names, and unique business purposes. Let me brainstorm:
+
+1. Maybe a young man working as a scientific research assistant. He wants to start a lab supply business. Let's name him Lars Müller.
+
+2. Another could be a data analyst looking to open a tech consulting firm. Name: Simon Becker.
+
+3. A third person could be a mechanic wanting to start an auto repair shop. Name: Timo Fischer.
+
+4. Maybe a graphic designer aiming to launch a design studio. Name: Marco Schmidt.
+
+5. A fifth person could be a logistics coordinator planning to start a delivery service. Name: Dennis Weber.
+
+Each letter should explain why they need the loan, their financial situation, and why they're trustworthy. They need to mention their current job, duration, savings, residence, existing credit, etc. Also, include specific numbers from the profile: 48 months checking account, 2 years residence, 1-4 years at job, 1 existing credit, 23 years old, etc.
+
+I need to ensure each letter is concise, doesn't use formatting, and ends properly. Let me start drafting each one, making sure to vary the business ideas and personal details while sticking to the profile parameters.
+
+For each letter, structure:
+
+- Greeting
+- Introduction: who you are, current job, tenure
+- Purpose of loan (specific business idea)
+- Financial situation: checking account duration, savings, residence, existing credit
+- Trustworthiness: repayment history, job stability, personal commitment
+- Closing: request for loan, thanks
+
+Check that all numbers from the profile are included as specific instances. For example, instead of "skilled employee", use "scientific research assistant", and mention exact durations like "8 years" if needed. Wait, the profile says "present employment since: 1 <= ... < 4 years", so each person's employment duration should be between 1-4 years. Let me assign different durations within that range for each.
+
+Also, the profile says "number of existing credits at this bank: 1", so each applicant has one existing credit here. Their age is 23, so they're young, but have a 48-month checking account (4 years), which is possible if they opened it at 19.
+
+Make sure each letter has unique business purposes and specific roles. Avoid repetition. Use different names and surnames. Also, mention the exact loan amount (15672 DM) and the installment rate (2 DM?), but maybe the installment rate is a category code. Since the user says to invent specific instances, maybe not necessary to include that. Focus on the other attributes.
+
+Let me start writing each letter now.
+</think>
+
+**Motivation Letter 1**  
+Dear Sir/Madam,  
+
+My name is Lars Müller, and I am a scientific research assistant at the University of Berlin, a position I have held for 3 years. I am writing to request a loan of 15,672 DM to establish a small laboratory supply business, which will cater to local research institutions.  
+
+I have maintained a checking account with your bank for 48 months and currently hold a savings account with 80 DM. Although my savings are modest, I have a stable income and have consistently repaid my existing credit (a student loan) without delay. I reside in my own apartment in Berlin, where I have lived for 2 years, and own a used car for transportation.  
+
+At 23 years old, I am committed to building a reliable business that aligns with my expertise. My employer values my dedication, and I am confident this loan will enable me to purchase essential equipment. I assure you of timely repayments, as demonstrated by my credit history.  
+
+Thank you for considering my application. I look forward to your positive response.  
+
+Sincerely,  
+Lars Müller  
+
+---
+
+**Motivation Letter 2**  
+Dear Sir/Madam,  
+
+I am Simon Becker, a data analyst at a financial services firm, employed for 2.5 years. I seek a loan of 15,672 DM to launch a tech consulting firm specializing in data optimization for small businesses.  
+
+My checking account has been active for 4 years, and I maintain a savings balance of 50 DM. I have no other debts beyond my current credit, a car loan paid punctually for 18 months. I reside in my own apartment in Munich, where I have lived since 2021, and I own a registered foreign work permit under my name.  
+
+At 23, I am driven to create opportunities for startups. My employer’s recommendation and my repayment discipline make me a trustworthy candidate. This loan will cover initial software licenses and office setup.  
+
+Thank you for your time. I am eager to discuss how this investment will yield returns.  
+
+Best regards,  
+Simon Becker  
+
+---
+
+**Motivation Letter 3**  
+Dear Sir/Madam,  
+
+My name is Timo Fischer, and I work as a certified mechanic at AutoTech GmbH, where I have been employed for 3 years. I am applying for a 15,672 DM loan to open an auto repair shop in Dresden.  
+
+I have a checking account with your bank for 48 months and a savings account with 30 DM. I have no other installment plans and have fully repaid my previous credit, a tool purchase loan. I live in my own home and have resided in Dresden for 2 years.  
+
+At 23, I am passionate about providing affordable vehicle repairs. My employer confirms my reliability, and my savings, though small, reflect my frugality. This loan will cover tools and workspace renovation.  
+
+Thank you for your consideration. I am committed to repaying this loan responsibly.  
+
+Yours faithfully,  
+Timo Fischer  
+
+---
+
+**Motivation Letter 4**  
+Dear Sir/Madam,  
+
+I am Marco Schmidt, a graphic designer at Creative Studio, employed for 1.5 years. I request a 15,672 DM loan to start a freelance design studio, offering branding services to local businesses.  
+
+I have held my checking account for 4 years and maintain a savings balance of 20 DM. I have no additional debts beyond my current credit, a student loan cleared in full each month. I own a car and reside in my own apartment in Hamburg, where I have lived for 2 years.  
+
+At 23, I am eager to turn my creative skills into a sustainable business. My employer attests to my work ethic, and my punctual repayments prove my financial responsibility. This loan will fund design software and marketing materials.  
+
+Thank you for your support. I am confident in my ability to succeed.  
+
+Kind regards,  
+Marco Schmidt  
+
+---
+
+**Motivation Letter 5**  
+Dear Sir/Madam,  
+
+My name is Dennis Weber, and I am a logistics coordinator at a distribution company, working there for 3 years. I apply for a 15,672 DM loan to start a regional delivery service using electric vehicles.  
+
+My checking account has been active for 48 months, and my savings account holds 90 DM. I have no other debts and have consistently repaid my existing credit, a motorcycle loan. I live in my own home in Cologne, where I have resided for 2 years, and I own a registered foreign work permit.  
+
+At 23, I aim to reduce delivery costs for small businesses while promoting eco-friendly practices. My job stability and repayment history make me a reliable candidate. This loan will cover vehicle purchases and licensing.  
+
+Thank you for reviewing my application. I am ready to discuss further details.  
+
+Sincerely,  
+Dennis Weber

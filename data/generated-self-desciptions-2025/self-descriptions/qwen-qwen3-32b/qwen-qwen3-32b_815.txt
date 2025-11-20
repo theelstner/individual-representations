@@ -1,0 +1,121 @@
+<think>
+Okay, I need to write five motivation letters for a bank loan application based on the given profile. Each letter should be from a different person with specific instances of the generic attributes. Let me start by breaking down the profile to make sure I cover all the details.
+
+First, the profile mentions a checking account with less than 0 DM, which is negative. The person has had a checking account for 48 months (4 years). Credit history shows existing credits paid back duly. The purpose is domestic appliances, credit amount 3051 DM. Savings account less than 100 DM. Employment duration 1-4 years. Installment rate 3 (maybe DM per month?), male single, no other debtors, residence since 4 months (or 4 years?), property like a car, age 54, no other installment plans, housing in own, one existing credit at the bank, job as skilled employee or official, one dependent, no telephone, foreign worker yes.
+
+Wait, some fields might need clarification. For example, "Present residence since:4" – probably 4 years. "Duration in month:48" for checking account is 4 years. "Present employment since:1 <= ... <4 years" so between 1-4 years. "Installment rate:3" – maybe 3% or DM 3? Probably DM 3 per month? But that seems low. Maybe it's a code, like category 3? Maybe better to treat as a specific number, but since the user wants specific instances, maybe just use the numbers given.
+
+Each letter needs to be from a different person. Let me think of different scenarios. The job is a skilled employee or official. Let me pick different jobs: scientific research assistant, electrician, teacher, IT technician, and a mechanic. Each with different specifics.
+
+First person: Scientific research assistant, 8 years in job? Wait, employment duration is 1-4 years. So maybe 2 years as a research assistant. Age 54, foreign worker. Let's say he's from another EU country, working in Germany. His purpose is to buy appliances for his home. He has a dependent, maybe a child. Savings are low but he has paid back previous credit. Emphasize trustworthiness through timely repayments.
+
+Second person: Electrician, 3 years in current job. Maybe he's a foreign worker from Eastern Europe. Needs appliances for his new apartment. Lives in own housing, has a car. Has one existing credit, wants another for appliances. Highlight stable employment and residence.
+
+Third person: IT technician, 2 years employed. Maybe from India, works in Germany. Needs appliances for his home. He has a car, own house, one dependent. Emphasize that he's settled, paid back previous loans.
+
+Fourth: Teacher's assistant, 3 years in job. From Spain, living in Germany. Needs to buy a fridge, stove. Has a good credit history.
+
+Fifth: Mechanic, 1.5 years at current job. From Poland. Needs appliances. Maybe he's single with a child. Emphasize stable job and residence.
+
+Each letter should start with sender's info, date, bank address, subject. Then explain purpose, financial situation, why trustworthy. Use specific numbers: credit amount 3051 DM, installment rate 3 (maybe 3% of income?), but maybe better to avoid that if unclear. Instead, mention the amount they can repay. Each letter should be concise, not too long. Make sure they don't have savings but have paid back previous loans. No telephone, but maybe that's outdated data. Since they are foreign workers, mention that they have stable jobs.
+
+Need to ensure each letter is unique in their circumstances but fits the profile. Let me start drafting each one with specific jobs and scenarios.
+</think>
+
+**Motivation Letter 1**  
+Mr. Jan Kovac  
+ул. Белградска 14, Berlin  
+20.10.2023  
+
+XYZ Bank AG  
+Leipziger Straße 22  
+1015 Berlin  
+
+Betreff: Kreditantrag für Haushaltsgeräte  
+
+Sehr geehrte Damen und Herren,  
+
+als 54-jähriger Elektroinstallateur mit einer 2-jährigen Stelle bei der Firma Elektro Nord GmbH beantrage ich einen Kredit in Höhe von 3051 DM für den Kauf von Haushaltsgeräten. Meine aktuelle Arbeitsstelle zahlt ein monatliches Bruttoeinkommen von 2800 DM, von dem ich 300 DM zur Rückzahlung leisten kann. Obwohl mein Girokonto aktuell überzogen ist (–120 DM), habe ich meine bisherigen Kredite (z. B. einen Autokredit von 2019) stets pünktlich getilgt. Ich wohne seit 4 Jahren in meiner eigenen Wohnung und besitze ein gebrauchtes Auto. Als ausgebildeter Handwerker mit 18 Jahren Berufserfahrung und als EU-Bürger mit festem Arbeitsvertrag bin ich finanziell stabil. Der Kredit wird meine Lebensqualität verbessern, ohne meine Ratenfähigkeit zu überschreiten.  
+
+Mit freundlichen Grüßen  
+Jan Kovac  
+
+---
+
+**Motivation Letter 2**  
+Ms. Amina Diallo  
+Rue de Paris 7, Frankfurt  
+18.10.2023  
+
+Bankhaus Frankfurt  
+Mainzer Straße 45  
+60311 Frankfurt  
+
+Betreff: Antrag auf Kredit für Küchenausstattung  
+
+Sehr geehrte Damen und Herren,  
+
+als 54-jährige wissenschaftliche Mitarbeiterin am Frankfurter Institut für Mikrobiologie beantrage ich einen Kredit von 3051 DM, um meine marode Küche zu ersetzen. Ich arbeite seit 3 Jahren in Teilzeit (19 Stunden/Woche) mit einem Monatseinkommen von 2200 DM und habe meine bisherigen Kredite (eine Bibliothekskreditlinie) ohne Verzögerungen getilgt. Obwohl mein Sparkonto nur 80 DM beträgt, habe ich meine Wohnkosten in meiner eigenen 2-Zimmer-Wohnung seit 4 Jahren konstant abgedeckt. Als ausgebildete Laborassistentin aus Senegal, die seit 10 Jahren in Deutschland lebt, halte ich mich an meine Verpflichtungen. Der Kredit wird meine Arbeitseffizienz erhöhen, da ich nicht länger mit defektem Gerät arbeiten kann.  
+
+Mit freundlichen Grüßen  
+Amina Diallo  
+
+---
+
+**Motivation Letter 3**  
+Mr. Luigi Moretti  
+Via Roma 5, München  
+22.10.2023  
+
+Münchener Volksbank  
+Schwabinger Straße 12  
+80331 München  
+
+Betreff: Kredit für Haushaltsgeräte  
+
+Sehr geehrte Damen und Herren,  
+
+als 54-jähriger IT-Systemtechniker bei der Firma TechSupport GmbH beantrage ich einen Kredit von 3051 DM für den Kauf eines neuen Backofens und einer Waschmaschine. Ich arbeite seit 2 Jahren in München und verdiene 2600 DM brutto. Meine bisherigen Kredite (z. B. ein Handy-Kaufkredit) wurden vollständig getilgt. Obwohl mein Girokonto aktuell –85 DM beträgt, habe ich meine Miete in meiner eigenen Wohnung pünktlich gezahlt. Als italienischer EU-Bürger mit 15 Jahren Berufserfahrung und einem festen Arbeitsvertrag bin ich finanziell verantwortungsbewusst. Der Kredit wird meine häusliche Situation verbessern, ohne meine Ratenkapazität zu überschreiten.  
+
+Mit freundlichen Grüßen  
+Luigi Moretti  
+
+---
+
+**Motivation Letter 4**  
+Mr. Rajesh Kumar  
+Chandni Chowk 8, Köln  
+19.10.2023  
+
+Kölner Privatbank  
+Rheinlandstraße 17  
+50667 Köln  
+
+Betreff: Antrag auf Kredit für Haushaltsgeräte  
+
+Sehr geehrte Damen und Herren,  
+
+als 54-jähriger Lehrerassistent an der Kölner Grundschule beantrage ich einen Kredit von 3051 DM, um eine neue Spülmaschine und einen Kühlschrank zu erwerben. Ich arbeite seit 1 Jahr in Teilzeit (22 Stunden/Woche) mit einem Monatseinkommen von 2000 DM. Obwohl mein Sparkonto leer ist, habe ich meine bisherigen Kredite (eine Schuldenrestrukturierung) pünktlich getilgt. Ich wohne seit 4 Jahren in meiner eigenen Wohnung und besitze ein Auto. Als ausgebildeter Pädagoge aus Indien mit 20 Jahren Berufserfahrung und einem festen Arbeitsvertrag bin ich zuverlässig. Der Kredit wird meine Fähigkeit verbessern, meine Tochter (14) in einem gesunden Umfeld zu betreuen.  
+
+Mit freundlichen Grüßen  
+Rajesh Kumar  
+
+---
+
+**Motivation Letter 5**  
+Ms. Zofia Nowak  
+Ul. Warschau 3, Hamburg  
+21.10.2023  
+
+Hamburger Kreditbank  
+Elbstraße 44  
+20457 Hamburg  
+
+Betreff: Kredit für Haushaltsgeräte  
+
+Sehr geehrte Damen und Herren,  
+
+als 54-jährige Mechanikerin bei der Firma AutoTech Hamburg beantrage ich einen Kredit von 3051 DM für den Kauf einer neuen Waschmaschine. Ich arbeite seit 1,5 Jahren in Vollzeit mit einem Bruttogehalt von 2400 DM und habe meine bisherigen Kredite (z. B. eine Zahnersatzfinanzierung) ohne Verzögerung getilgt. Obwohl mein Girokonto aktuell –90 DM beträgt, habe ich meine Miete in meiner eigenen Wohnung konstant bezahlt. Als polnische EU-Bürgerin mit 25 Jahren Berufserfahrung und einem Arbeitsvertrag bis 2026 bin ich finanziell stabil. Der Kredit wird meine häusliche Situation verbessern, ohne meine Ratenkapazität zu überschreiten.  
+
+Mit freundlichen Grüßen  
+Zofia Nowak
