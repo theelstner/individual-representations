@@ -1,0 +1,202 @@
+[
+  {
+    "id": 60998,
+    "text": "GCD_status_of_existing_checking_account",
+    "prefixKey": null,
+    "suffixKey": "0",
+    "backgroundColor": "#AEA505",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 60999,
+    "text": "GCD_duration_in_month",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61000,
+    "text": "GCD_credit_history",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#BC7BED",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61001,
+    "text": "GCD_purpose",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#DB1282",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61002,
+    "text": "GCD_credit_amount",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#EE3968",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61003,
+    "text": "GCD_savings_account/bonds",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#9487B3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61004,
+    "text": "GCD_present_employment_since",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#E4757D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61005,
+    "text": "GCD_installment_rate",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#19FF80",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61006,
+    "text": "GCD_personal_status_and_sex",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#2FF5DB",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61007,
+    "text": "GCD_other_debtors/gurarantors",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#94D5B7",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61008,
+    "text": "GCD_present_residence_since",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#C5416A",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61009,
+    "text": "GCD_property",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#5D1D8F",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61010,
+    "text": "GCD_age",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#D3D1C6",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61011,
+    "text": "GCD_other_installment_plans",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#776689",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61012,
+    "text": "GCD_housing",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#3101DE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61013,
+    "text": "GCD_number_of_existing_credits_at_this_bank",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#193672",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61014,
+    "text": "GCD_job",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#809C50",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61015,
+    "text": "GCD_dependents",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#9D51CB",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61016,
+    "text": "GCD_telephone",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61017,
+    "text": "GCD_foreign_worker",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#D364C6",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61018,
+    "text": "new_name",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#DE3DD0",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61021,
+    "text": "new_personality",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#C8D887",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61023,
+    "text": "new_income",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#958EB3",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61024,
+    "text": "aspect",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#06F039",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 61025,
+    "text": "specification",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#DE41FD",
+    "textColor": "#ffffff"
+  }
+]

@@ -1,5 +1,0 @@
-- 40 along distribution of clusters, pick one from each cluster (except qwen thinking tokens): (5runden*8cluster -> per round: 2 kimi, 2 o3, 1 qwen, 1 gpt-4-1, 1 gpt 4o, 1 llama)
-- 6 outliers for each "home" cluster (grouped by model), one per model (except gpt 4o -> no outliers, except few formatting errors (empty string), which were ignored, but two from llama, because few were very scattered)
-- 1 from qwen letter 1 (+ thinking token, thats why own cluster)
-- ignored tiny cluster of german letters (o3, 22 letters; kimi 10 letters, 2 profiles)
-
